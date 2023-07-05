@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_QR POCQuota Refinement   ExitSaveCurren_7553a9</name>
+   <tag></tag>
+   <elementGuidId>18fa5523-7063-4785-94e8-29aae39809e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-div.main</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>005c6dc2-3bbd-49a9-8f2b-ebf51965c1c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-div main</value>
+      <webElementGuid>46fe7aa6-bf69-4602-8c80-8733da6026a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QR POCQuota Refinement >  ExitSaveCurrent Stage:DetailsCycle Level ConfigurationsProduct Level ConfigurationsView Refinement*NameNameQuota Name should be unique*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting' Spchar'so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu's Assigned To A Single User Can Be Up To 1Women's Care*TeamTeamAlphaAlphaSub TeamSub TeamNone*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX*Time PeriodSelect Time Period*DateDateSelect a date for Date  Period Start DatePeriod Start DateSelect a date for Period Start Date  Period End DatePeriod End DateSelect a date for Period End Date  GoalGoal*RosterRosterCancel and closeGoalsStatusData AdapterNameBusiness UnitProductsFrequencyNameFrequencyVersionLast Modified DateLast Modified ByCancelSaveCancel and closeRosterNamePeriodVersionLast Updated ByLast Updated OnCancelSaveNext</value>
+      <webElementGuid>b81b1059-4a46-493b-a838-5baa71bcfe3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]</value>
+      <webElementGuid>8dcdaa63-81ce-4180-8472-41eb20eb69c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div</value>
+      <webElementGuid>445035c2-9bfc-42d5-bd2c-291f4c34b20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Action'])[3]/following::div[4]</value>
+      <webElementGuid>cca16868-9628-4f52-9f02-6bfa3e8a3ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved'])[3]/following::div[5]</value>
+      <webElementGuid>9e13228b-49ab-472f-9be4-d2ada3d3eabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//siqic-qr-new-cycle-creation/div</value>
+      <webElementGuid>e7cf9cc5-060b-4ae3-ad50-b4c0c4add7a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;QR POCQuota Refinement >  ExitSaveCurrent Stage:DetailsCycle Level ConfigurationsProduct Level ConfigurationsView Refinement*NameNameQuota Name should be unique*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting&quot; , &quot;'&quot; , &quot; Spchar&quot; , &quot;'&quot; , &quot;so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu&quot; , &quot;'&quot; , &quot;s Assigned To A Single User Can Be Up To 1Women&quot; , &quot;'&quot; , &quot;s Care*TeamTeamAlphaAlphaSub TeamSub TeamNone*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX*Time PeriodSelect Time Period*DateDateSelect a date for Date  Period Start DatePeriod Start DateSelect a date for Period Start Date  Period End DatePeriod End DateSelect a date for Period End Date  GoalGoal*RosterRosterCancel and closeGoalsStatusData AdapterNameBusiness UnitProductsFrequencyNameFrequencyVersionLast Modified DateLast Modified ByCancelSaveCancel and closeRosterNamePeriodVersionLast Updated ByLast Updated OnCancelSaveNext&quot;) or . = concat(&quot;QR POCQuota Refinement >  ExitSaveCurrent Stage:DetailsCycle Level ConfigurationsProduct Level ConfigurationsView Refinement*NameNameQuota Name should be unique*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting&quot; , &quot;'&quot; , &quot; Spchar&quot; , &quot;'&quot; , &quot;so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu&quot; , &quot;'&quot; , &quot;s Assigned To A Single User Can Be Up To 1Women&quot; , &quot;'&quot; , &quot;s Care*TeamTeamAlphaAlphaSub TeamSub TeamNone*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX*Time PeriodSelect Time Period*DateDateSelect a date for Date  Period Start DatePeriod Start DateSelect a date for Period Start Date  Period End DatePeriod End DateSelect a date for Period End Date  GoalGoal*RosterRosterCancel and closeGoalsStatusData AdapterNameBusiness UnitProductsFrequencyNameFrequencyVersionLast Modified DateLast Modified ByCancelSaveCancel and closeRosterNamePeriodVersionLast Updated ByLast Updated OnCancelSaveNext&quot;))]</value>
+      <webElementGuid>1e81342e-89c0-461c-b2a4-eab4decbb5e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

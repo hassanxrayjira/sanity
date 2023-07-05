@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>c-qr-h-o-details_NameNameQuota Name should _74e0b2</name>
+   <tag></tag>
+   <elementGuidId>62149193-a7d8-41e9-8e84-a26f87a32419</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>c-qr-h-o-details</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>c-qr-h-o-details</value>
+      <webElementGuid>bb6f4fa7-989d-45d7-bd7f-28a9f801969e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*NameNameQuota Name should be unique*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting' Spchar'so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu's Assigned To A Single User Can Be Up To 1Women's Care*TeamTeamAlphaAlphaSub TeamSub TeamNone*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX*Time PeriodSelect Time Period*DateDateSelect a date for Date  Period Start DatePeriod Start DateSelect a date for Period Start Date  Period End DatePeriod End DateSelect a date for Period End Date  GoalGoal*RosterRosterCancel and closeGoalsStatusData AdapterNameBusiness UnitProductsFrequencyNameFrequencyVersionLast Modified DateLast Modified ByCancelSaveCancel and closeRosterNamePeriodVersionLast Updated ByLast Updated OnCancelSaveNext</value>
+      <webElementGuid>ce72eeeb-dbca-48b4-8323-07cb71249778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]</value>
+      <webElementGuid>c782f5fb-342a-4fce-ae18-71b55f6ac146</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details</value>
+      <webElementGuid>17832b61-bbf0-4f36-9430-c948d6ae6aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Refinement'])[1]/following::c-qr-h-o-details[1]</value>
+      <webElementGuid>759eda2b-c1da-4c13-86ff-f0689c66d360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Level Configurations'])[1]/following::c-qr-h-o-details[1]</value>
+      <webElementGuid>0b5a406a-a977-4010-a9e8-637a0d54daff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-qr-h-o-details</value>
+      <webElementGuid>1f117952-5d74-4654-8405-81d777d794b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//c-qr-h-o-details[(text() = concat(&quot;*NameNameQuota Name should be unique*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting&quot; , &quot;'&quot; , &quot; Spchar&quot; , &quot;'&quot; , &quot;so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu&quot; , &quot;'&quot; , &quot;s Assigned To A Single User Can Be Up To 1Women&quot; , &quot;'&quot; , &quot;s Care*TeamTeamAlphaAlphaSub TeamSub TeamNone*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX*Time PeriodSelect Time Period*DateDateSelect a date for Date  Period Start DatePeriod Start DateSelect a date for Period Start Date  Period End DatePeriod End DateSelect a date for Period End Date  GoalGoal*RosterRosterCancel and closeGoalsStatusData AdapterNameBusiness UnitProductsFrequencyNameFrequencyVersionLast Modified DateLast Modified ByCancelSaveCancel and closeRosterNamePeriodVersionLast Updated ByLast Updated OnCancelSaveNext&quot;) or . = concat(&quot;*NameNameQuota Name should be unique*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting&quot; , &quot;'&quot; , &quot; Spchar&quot; , &quot;'&quot; , &quot;so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu&quot; , &quot;'&quot; , &quot;s Assigned To A Single User Can Be Up To 1Women&quot; , &quot;'&quot; , &quot;s Care*TeamTeamAlphaAlphaSub TeamSub TeamNone*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX*Time PeriodSelect Time Period*DateDateSelect a date for Date  Period Start DatePeriod Start DateSelect a date for Period Start Date  Period End DatePeriod End DateSelect a date for Period End Date  GoalGoal*RosterRosterCancel and closeGoalsStatusData AdapterNameBusiness UnitProductsFrequencyNameFrequencyVersionLast Modified DateLast Modified ByCancelSaveCancel and closeRosterNamePeriodVersionLast Updated ByLast Updated OnCancelSaveNext&quot;))]</value>
+      <webElementGuid>17389147-4f5d-4c01-b74e-7cdded9b9b71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

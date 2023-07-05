@@ -6,12 +6,12 @@
    <elementGuidId>f6613e73-8fcd-4726-a24a-bc54a82646aa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;brandBand_2&quot;]/div/div/div[2]/siqic-qr-new-cycle-creation/div[1]/div[3]/c-qr-h-o-details/div[1]/div[5]/div[2]/lightning-input/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.slds-button.slds-button_icon.slds-modal__close.slds-button_icon-inverse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name=&quot;roster&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>47b3820f-0ec0-4165-9990-579f5d1c5a85</webElementGuid>
+      <webElementGuid>6fa7427e-74d7-4859-80fe-028c91cd99cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-button slds-button_icon slds-modal__close slds-button_icon-inverse</value>
-      <webElementGuid>d0aa88f0-faff-4f92-9f22-2cdcf2a52dda</webElementGuid>
+      <webElementGuid>28104008-2a2b-4f8d-ab62-46380de567a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancel and close</value>
-      <webElementGuid>189faefc-bdfb-475a-8857-f24c3f8b89dc</webElementGuid>
+      <webElementGuid>62c303ad-042e-43bd-bebb-b767f7e1c667</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/section[@class=&quot;slds-modal goalsModalBox slds-fade-in-open&quot;]/div[@class=&quot;slds-modal__container modal-width&quot;]/button[@class=&quot;slds-button slds-button_icon slds-modal__close slds-button_icon-inverse&quot;]</value>
-      <webElementGuid>f8ab86cb-3a5b-4ed7-842f-910c5a7b87ac</webElementGuid>
+      <webElementGuid>d073f009-ad5e-4b00-9059-fee99276c754</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/section/div/button</value>
-      <webElementGuid>906b2cd3-a61c-4d3b-b3ec-0354dc7c07bb</webElementGuid>
+      <webElementGuid>0cb866f5-b981-4b39-ac15-d904e09ffc9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Roster'])[2]/following::button[1]</value>
-      <webElementGuid>b6aea93e-1792-48f8-83ee-00ea082ca539</webElementGuid>
+      <webElementGuid>5ac338bc-c196-4cf5-93ff-d80487af499e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Roster'])[1]/following::button[1]</value>
-      <webElementGuid>5d09548a-0fa8-43b9-a165-bb019b1c7f26</webElementGuid>
+      <webElementGuid>3bdad3d0-2512-4e9a-8fc0-5e54ac68136a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Goals'])[1]/preceding::button[1]</value>
-      <webElementGuid>eb2cb7c3-4080-40ae-9281-2d0f1b1920e6</webElementGuid>
+      <webElementGuid>63585a8b-4ee7-454f-ad97-31a2bf13d770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/button</value>
-      <webElementGuid>fb6326cc-19f8-4f7e-9298-1719a8c2b5d9</webElementGuid>
+      <webElementGuid>8b39e4ee-11fd-4571-8145-62ac99b06f59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Cancel and close' or . = 'Cancel and close')]</value>
-      <webElementGuid>c573088d-4cc5-4658-90e4-7e9f38d80890</webElementGuid>
+      <webElementGuid>519c8356-7491-46c9-be72-423c855d745e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

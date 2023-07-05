@@ -6,12 +6,12 @@
    <elementGuidId>c52963d1-81a3-4a8b-befa-786cfe527264</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[(text() = 'Name:' or . = 'Name:')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.slds-col</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Name:' or . = 'Name:')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f1551ba5-34de-426a-80e5-df78bf894308</webElementGuid>
+      <webElementGuid>39192451-2b17-4710-a2fb-2731847dfa2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-col</value>
-      <webElementGuid>1f0bb3c7-158b-434d-a7c8-3cfe92afb95c</webElementGuid>
+      <webElementGuid>38fb4a81-7b31-4644-8f79-1ba6317816ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Name:</value>
-      <webElementGuid>144a0bc2-dc5d-4f17-99dd-ef2505775b19</webElementGuid>
+      <webElementGuid>59b8116f-e696-4b87-9b3f-87ac526b40d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr_-list-page-lwc[1]/div[@class=&quot;row&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/section[@class=&quot;slds-modal slds-fade-in-open slds-modal_small&quot;]/div[@class=&quot;slds-modal__container&quot;]/div[@class=&quot;slds-modal__content&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/div[@class=&quot;slds-col&quot;]</value>
-      <webElementGuid>b96d67f0-c426-4c81-a410-63a70ba12987</webElementGuid>
+      <webElementGuid>886ba2c2-2132-4082-a1e7-07d709f6eab9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/section/div/div/div/div</value>
-      <webElementGuid>09f0ba61-919d-4534-baa4-614bea9f2c3e</webElementGuid>
+      <webElementGuid>aa823332-77ff-441c-a42f-11b6f5eff63b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Folder'])[1]/following::div[4]</value>
-      <webElementGuid>f342d886-d987-491e-8ddb-7d110bc1dd76</webElementGuid>
+      <webElementGuid>7460d8bf-a185-43ce-8547-0866f4ff3d01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='z06'])[1]/following::div[4]</value>
-      <webElementGuid>aad2e154-b549-418d-9eed-7dec1cd123d2</webElementGuid>
+      <webElementGuid>4ed288a8-58b0-46d0-988a-8519fcab35c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quota Refinement List'])[1]/preceding::div[6]</value>
-      <webElementGuid>98305f96-cfa4-4740-b8e9-b16348a7a217</webElementGuid>
+      <webElementGuid>ca3f4dc7-64fd-4b84-b176-0d3cc202b1c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quota Refinement List'])[2]/preceding::div[6]</value>
-      <webElementGuid>846030a1-dcab-414f-8e90-f5313d1e5ef7</webElementGuid>
+      <webElementGuid>ca2d1d55-7046-40ff-a7b9-3e34ccd1a160</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Name:']/parent::*</value>
-      <webElementGuid>c35864c7-441b-4902-88c4-8753bc71ae8d</webElementGuid>
+      <webElementGuid>53fcecfc-310e-4fd3-a519-3e0d1da923b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//siqic-qr_-list-page-lwc/div/div/section/div/div/div/div</value>
-      <webElementGuid>87be48b4-c8ba-418f-920b-4f5bb15f73ff</webElementGuid>
+      <webElementGuid>d9da0fb3-4eee-41ce-a2fc-529451c02f0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Name:' or . = 'Name:')]</value>
-      <webElementGuid>fb89c5ce-abcd-465e-bc75-a438f4175081</webElementGuid>
+      <webElementGuid>5b579882-c5f0-4332-badd-57a622afaba2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

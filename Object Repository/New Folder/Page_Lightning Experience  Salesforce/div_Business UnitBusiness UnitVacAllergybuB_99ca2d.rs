@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business UnitBusiness UnitVacAllergybuB_99ca2d</name>
+   <tag></tag>
+   <elementGuidId>b7879f61-574f-4534-a3d5-dbfb8d32f2e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;brandBand_2&quot;]/div/div/div[3]/siqic-qr-new-cycle-creation/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0d7a888-5067-4c15-b3ac-a66335bc5c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-col slds-size_1-of-2 padding-5</value>
+      <webElementGuid>f224f364-488b-4196-9eab-51a6c4f09d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting' Spchar'so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu's Assigned To A Single User Can Be Up To 1Women's Care</value>
+      <webElementGuid>5ec2589c-41df-485f-b683-b245d5a5a547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/div[@class=&quot;de&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-size_1-of-2 padding-5&quot;]</value>
+      <webElementGuid>e1d56362-17d3-47e2-98af-7b23267837fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div/div[2]</value>
+      <webElementGuid>3e97f79a-fcf1-4d02-b734-d1f75220c8c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quota Name should be unique'])[1]/following::div[1]</value>
+      <webElementGuid>6446e4db-391b-4567-854a-b64845ee01ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[3]/following::div[3]</value>
+      <webElementGuid>38e25963-ecf3-4832-afbf-e96b552c4053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-qr-h-o-details/div/div/div[2]</value>
+      <webElementGuid>0c73b70e-e159-4d4b-9f2f-e61d7419229a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting&quot; , &quot;'&quot; , &quot; Spchar&quot; , &quot;'&quot; , &quot;so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu&quot; , &quot;'&quot; , &quot;s Assigned To A Single User Can Be Up To 1Women&quot; , &quot;'&quot; , &quot;s Care&quot;) or . = concat(&quot;*Business UnitBusiness UnitVacAllergybuBunits()_\&amp;:-.!@#$%^*={}&lt;>?/~`[]CardiovascularChina_oncologyDiabetesHacHac1India_cardiovascularLower Case Business UnitOncologyOncology Area ManagerRoa_diabetesTest &amp; Business_unit Gb For@specials Character And Lengthy Bu NameTesting&quot; , &quot;'&quot; , &quot; Spchar&quot; , &quot;'&quot; , &quot;so That !@#$%^&amp;*()-={}[]&lt;>.?:This Is To Test 40 Character Length In The Name Of Bu ForVacVerify The Maximum Character Limit In Case Of Multiple Bu&quot; , &quot;'&quot; , &quot;s Assigned To A Single User Can Be Up To 1Women&quot; , &quot;'&quot; , &quot;s Care&quot;))]</value>
+      <webElementGuid>0b5f2f49-4965-4882-9018-e5e18e81098b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>88bcb223-6433-4bb9-89df-28b7858d40c9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div[3]/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.slds-form-element</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div[3]/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1f23403a-808b-4e18-82b9-1b3912eaa443</webElementGuid>
+      <webElementGuid>90faa8f2-19f9-463e-a1ea-c7be7b37c951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-form-element</value>
-      <webElementGuid>b4ccc94d-2487-4393-80f6-94710c5c63a2</webElementGuid>
+      <webElementGuid>03386a11-561a-4c4b-bf40-67e28e39d5e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX</value>
-      <webElementGuid>ae2d50ab-7eb9-4c8f-a133-e4d4e5c8244d</webElementGuid>
+      <webElementGuid>c67f22cd-2c19-4cdf-aefd-17587b24ce98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/div[@class=&quot;de&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-size_1-of-2 padding-5&quot;]/div[@class=&quot;slds-form-element&quot;]</value>
-      <webElementGuid>da738f39-80fa-406d-b58a-b4b38cf5fb28</webElementGuid>
+      <webElementGuid>67e29ea0-0cf6-43ce-bc08-09f95d61df2a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div[3]/div/div</value>
-      <webElementGuid>2dfc8e82-50b3-4970-8d43-a094bc4dddff</webElementGuid>
+      <webElementGuid>49bc822d-b5e5-4927-9c52-e145d209226f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[1]/following::div[5]</value>
-      <webElementGuid>1015a8fc-ce98-4d6b-a737-cbefe5a8108a</webElementGuid>
+      <webElementGuid>251dc2d1-f20e-455c-849d-a916e2c35189</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Team'])[2]/following::div[8]</value>
-      <webElementGuid>3ddd5f87-d9e5-4b21-9b1b-2a171a54ecf7</webElementGuid>
+      <webElementGuid>c64e13f7-66ed-4cad-840d-225e3afbc7f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//c-qr-h-o-details/div/div[3]/div/div</value>
-      <webElementGuid>4aa6cdaf-6346-4fd8-848e-66c5391af1ea</webElementGuid>
+      <webElementGuid>b08eecdd-e7e9-4da8-859a-4a0e2b6ad278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX' or . = '*ProductSelect ProductAllCRESMBAGARDASILGARDASIL 9IVAZINELIGNOXProduct1Product10Product11Product12Product13Product2Product3Product4Product5Product6Product7Product8Product9ROTATEQVARIVAX')]</value>
-      <webElementGuid>b87db026-7c78-457f-9026-6717f6a487dd</webElementGuid>
+      <webElementGuid>55ca335e-d7ad-4c8f-8a8a-fff6d27f6a6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>25bf3837-0969-4933-bded-12f7f373a4d5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@aria-label = 'Team, Select Team']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#combobox-button-1497</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@aria-label = 'Team, Select Team']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a913fbbc-461d-4e56-8aed-f20ef955fb9d</webElementGuid>
+      <webElementGuid>5f4b265d-5561-4d75-8bec-0b2f0c8ab56a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-combobox__input slds-input_faux</value>
-      <webElementGuid>ec504c64-d9f4-42e1-8569-ed93ac2bc73d</webElementGuid>
+      <webElementGuid>a65a59ca-0a7b-4f90-b3a1-e0cec1a13c2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>combobox-button-1497</value>
-      <webElementGuid>669286d1-4f16-4849-aaca-37cf3b71a99d</webElementGuid>
+      <webElementGuid>38e6a507-4689-4c0a-a212-b1a0cd85bf46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>15e79255-6ecd-44d6-ba13-55ef622f59c7</webElementGuid>
+      <webElementGuid>e8e67b99-8eaa-4bb7-a379-211660a8c72c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>222bc672-4ecd-4864-8704-a3a657c7fa63</webElementGuid>
+      <webElementGuid>a98f1604-002c-47bd-9c73-43015416741c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>85921713-f701-430a-b08b-e8b6284d0908</webElementGuid>
+      <webElementGuid>6989b4a5-ed7b-41eb-b465-df234b1a55c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>team</value>
-      <webElementGuid>4367c74c-658e-4317-967e-c748e22c3eb0</webElementGuid>
+      <webElementGuid>44d9a4c1-93c6-4ef7-8348-0ff299e0f43a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>c47f65ed-585b-476e-a8d4-47e67ded02cf</webElementGuid>
+      <webElementGuid>a6402360-ba9e-4686-beff-f57df4a4d326</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Team, Select Team</value>
-      <webElementGuid>677c1075-630b-4e27-9745-1b58261f6b41</webElementGuid>
+      <webElementGuid>149165ea-ab37-4f86-92be-32e3b0429800</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0be3c0fe-8e6e-4259-aa9c-c1f10451fc84</webElementGuid>
+      <webElementGuid>b032de65-c2c2-4640-af83-ff01695a1a6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>dropdown-element-1497</value>
-      <webElementGuid>b7ba4e38-1b29-4cd5-bcb4-f2757dcf5155</webElementGuid>
+      <webElementGuid>2cf7b995-a27e-4180-a052-dba4fd1525fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Team</value>
-      <webElementGuid>f5a4c93f-e892-4121-8513-3ce18123aa7a</webElementGuid>
+      <webElementGuid>a28c68f7-9fa6-441e-be27-766d3c5c794e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;combobox-button-1497&quot;)</value>
-      <webElementGuid>bf0dc0a4-116b-481e-b7c6-f57547445b2d</webElementGuid>
+      <webElementGuid>f31486f2-bc32-40ee-ae24-da79f5bd8d58</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='combobox-button-1497']</value>
-      <webElementGuid>e320fc8f-31fb-4831-b527-7ba7cc47c9fa</webElementGuid>
+      <webElementGuid>eff30a72-3dc7-456d-a552-9b11d96da837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div[2]/div/lightning-combobox/div/lightning-base-combobox/div/div/button</value>
-      <webElementGuid>eb7c341e-4537-44bb-9e45-5cc4dfce8989</webElementGuid>
+      <webElementGuid>a73d2cde-27d2-4af6-804f-9b76d2ace73d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Team'])[2]/following::button[1]</value>
-      <webElementGuid>b7715e3f-4466-45eb-95ad-655c40a117f5</webElementGuid>
+      <webElementGuid>02ff1b6d-1e39-4d14-ade9-fe295a23d0c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Team'])[1]/following::button[1]</value>
-      <webElementGuid>f01084f6-31bf-42f7-b124-50c8a3e608ed</webElementGuid>
+      <webElementGuid>23678674-5266-4704-b614-9857ca16317c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Team'])[1]/preceding::button[1]</value>
-      <webElementGuid>3341963f-9804-41e6-bf00-bffff3c5436d</webElementGuid>
+      <webElementGuid>233bd3a6-0dd6-43c4-9fc7-5d79671013bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/lightning-combobox/div/lightning-base-combobox/div/div/button</value>
-      <webElementGuid>b8a522e6-07a4-49c9-99c3-b5600f436715</webElementGuid>
+      <webElementGuid>9d892b29-b877-4e51-837d-1dd6e62df95f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'combobox-button-1497' and @type = 'button' and @name = 'team' and (text() = 'Select Team' or . = 'Select Team')]</value>
-      <webElementGuid>4fc1debf-817d-4c74-9826-04b473a0e855</webElementGuid>
+      <webElementGuid>93dc9e3d-df0f-42c8-ac3e-0a35928eefe3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

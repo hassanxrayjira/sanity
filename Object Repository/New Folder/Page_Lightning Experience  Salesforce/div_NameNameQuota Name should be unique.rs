@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NameNameQuota Name should be unique</name>
+   <tag></tag>
+   <elementGuidId>ba03985e-9eac-429d-8ce3-14d70cfb84c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-col.slds-size_1-of-2.padding-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b370ba14-4565-4c4e-a96f-f7314192d1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-col slds-size_1-of-2 padding-5</value>
+      <webElementGuid>72d3335b-e500-418c-8a5e-2c1ee875220f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*NameNameQuota Name should be unique</value>
+      <webElementGuid>a1169dde-ad71-4442-991a-3b9728584619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/div[@class=&quot;de&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-size_1-of-2 padding-5&quot;]</value>
+      <webElementGuid>9edf3119-bd86-489f-bf04-a88b897bd705</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div/div</value>
+      <webElementGuid>88d41c41-4bb8-47c2-8a1a-ef266ca3e82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Refinement'])[1]/following::div[4]</value>
+      <webElementGuid>d79a552d-2f6d-414a-bf8a-9982140dbe4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Level Configurations'])[1]/following::div[4]</value>
+      <webElementGuid>242b8a55-3a11-496c-81b3-c75dbc9a6d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-qr-h-o-details/div/div/div</value>
+      <webElementGuid>a3e702f6-f92d-4c3a-b6c4-7e8c4350d98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '*NameNameQuota Name should be unique' or . = '*NameNameQuota Name should be unique')]</value>
+      <webElementGuid>47b6833e-eedc-4038-ab78-2f5989cc2e79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

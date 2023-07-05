@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Current StageDetailsCycle Level Configu_7ead4d</name>
+   <tag></tag>
+   <elementGuidId>4c0cd3ad-e736-4980-880d-ef18ec29bc6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-path__scroller_inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a0955b2-2b28-49d9-93b7-e1a624b491d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-path__scroller_inner</value>
+      <webElementGuid>880e6764-6b7b-48fa-ad46-9d643b768d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Current Stage:DetailsCycle Level ConfigurationsProduct Level ConfigurationsView Refinement</value>
+      <webElementGuid>4f1d1edc-68cd-40fc-af8a-6fc304263739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;path-div&quot;]/div[@class=&quot;slds-path&quot;]/div[@class=&quot;slds-grid slds-path__track&quot;]/div[@class=&quot;slds-grid slds-path__scroller-container&quot;]/div[@class=&quot;slds-path__scroller&quot;]/div[@class=&quot;slds-path__scroller_inner&quot;]</value>
+      <webElementGuid>92e10f04-b3da-4da7-adbc-bc46aefd21e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>ef8b5fc8-a40a-47e7-9b7b-4eb4cca3a780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[6]</value>
+      <webElementGuid>e93b3038-ed76-46ba-a957-bcee102bf313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exit'])[1]/following::div[6]</value>
+      <webElementGuid>59edabd9-369f-4e52-abab-847dfea019b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//siqic-qr-new-cycle-creation/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>265ed4a5-5a32-46de-bf0e-c6fdabf51be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Current Stage:DetailsCycle Level ConfigurationsProduct Level ConfigurationsView Refinement' or . = 'Current Stage:DetailsCycle Level ConfigurationsProduct Level ConfigurationsView Refinement')]</value>
+      <webElementGuid>104c5f43-f5e3-42da-a84a-2126bb66af3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

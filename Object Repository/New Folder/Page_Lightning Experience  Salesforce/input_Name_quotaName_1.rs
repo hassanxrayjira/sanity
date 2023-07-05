@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Name_quotaName</name>
+   <name>input_Name_quotaName_1</name>
    <tag></tag>
-   <elementGuidId>240db98c-8cb6-45e3-b9cb-e6cad96da054</elementGuidId>
+   <elementGuidId>713c8c26-4f9c-4f2e-b331-60544c4d2131</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#input-1491</value>
+         <value>#input-1505</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type = 'text' and @name = 'quotaName']</value>
+         <value>//input[@id='input-1505']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0ebfcddc-6972-44a7-989e-2a37af5a1347</webElementGuid>
+      <webElementGuid>c8055f36-6e3c-4aab-a735-80b39dd2d46b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-input</value>
-      <webElementGuid>a82e8e82-a058-4a22-820a-f54d80edd7d2</webElementGuid>
+      <webElementGuid>8b5e89a9-fa57-4e7c-a4d0-fca9cc42d6a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>07026ce9-29d0-4fdf-bec2-5f28041d504e</webElementGuid>
+      <webElementGuid>2cd036f3-52f4-48ce-8402-b303ea55538c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>input-1491</value>
-      <webElementGuid>7cea29c6-d546-4311-94ec-42366b6d4c85</webElementGuid>
+      <value>input-1505</value>
+      <webElementGuid>3368e541-cc3d-44f2-bd59-23234f0d50e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>part</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7dcd12da-479e-45e0-a652-deedfd485352</webElementGuid>
+      <webElementGuid>77b5d249-6eee-4acc-a54d-2d84b6cd8868</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-errormessage</name>
       <type>Main</type>
-      <value>help-message-1491</value>
-      <webElementGuid>7c205fd1-d4a4-4094-9f3d-c5aae1659bc8</webElementGuid>
+      <value>help-message-1505</value>
+      <webElementGuid>7220c96a-7128-4ea0-8d5d-dc36b041dca5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,23 +70,39 @@
       <name>name</name>
       <type>Main</type>
       <value>quotaName</value>
-      <webElementGuid>fec3dc3f-7fa0-4393-8937-4308610e221d</webElementGuid>
+      <webElementGuid>75d2d5da-5e61-4732-bd6d-fe61bb7acaeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d8d3efc1-fe38-4631-a07c-00c97630f417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>help-message-1505</value>
+      <webElementGuid>bcbeafcf-e27e-4fa1-8c6a-09bbd016ca64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-1491&quot;)</value>
-      <webElementGuid>8768f870-89b9-42bd-beb3-9b298539dc9d</webElementGuid>
+      <value>id(&quot;input-1505&quot;)</value>
+      <webElementGuid>62a95098-ede8-47d5-9f42-495187de4131</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-1491']</value>
-      <webElementGuid>b00ca728-6abd-463e-b0a7-5cdc0cf5f320</webElementGuid>
+      <value>//input[@id='input-1505']</value>
+      <webElementGuid>bae1e9a2-5954-4ddf-a8f9-0a42ab0ecd45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div/div/lightning-input/div/div/input</value>
-      <webElementGuid>6d0bd51a-0c9f-4aed-9253-97bb4548ad38</webElementGuid>
+      <webElementGuid>7d7d9093-d05f-412b-907f-4d21c8a68204</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +118,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/lightning-input/div/div/input</value>
-      <webElementGuid>046cd764-31a6-4dc5-b7da-415e1850c065</webElementGuid>
+      <webElementGuid>253c5ea4-0517-47a0-bcc9-0a7c5b990ba8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'input-1491' and @name = 'quotaName']</value>
-      <webElementGuid>14614aef-7748-4016-8e86-d2ee8cc449cf</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'input-1505' and @name = 'quotaName']</value>
+      <webElementGuid>e2aa0105-32b4-45ac-a4fe-8c9de30ff449</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

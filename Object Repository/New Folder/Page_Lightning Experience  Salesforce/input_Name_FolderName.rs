@@ -6,12 +6,12 @@
    <elementGuidId>4c14b318-311b-44aa-b4c8-384967d3b0ca</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='FolderName']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#input-1468</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='FolderName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>89df500f-9d47-49d8-a93e-4fa00e89ccef</webElementGuid>
+      <webElementGuid>54b4ca08-0297-4f74-921c-f14f191979ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-input</value>
-      <webElementGuid>4480bc82-1d8c-4e4b-ad78-1e3f259d0403</webElementGuid>
+      <webElementGuid>05291e8f-ca9c-4245-8e21-6b97e80aba92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>941ea814-11b5-426d-8a6c-ba8f643fb8f6</webElementGuid>
+      <webElementGuid>1723c75f-87f5-4c36-8233-cc4709cd0886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-1468</value>
-      <webElementGuid>06223c92-4de9-47d2-b335-cfdf00ecbe53</webElementGuid>
+      <webElementGuid>830adde4-7d2f-4b97-a0ba-c90b2cb5eced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>part</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8ea39ea6-b554-4034-8186-0d21956684ef</webElementGuid>
+      <webElementGuid>47110383-0fef-4bb6-95e3-6beada69d43e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-errormessage</name>
       <type>Main</type>
       <value>help-message-1468</value>
-      <webElementGuid>a9e7b2d2-8f65-4c5d-b3a6-7e135676b173</webElementGuid>
+      <webElementGuid>c0298485-e287-428d-b7d0-bf7aed4bd923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>FolderName</value>
-      <webElementGuid>08a0b4e6-ccb4-4529-8db5-0df2f51edf10</webElementGuid>
+      <webElementGuid>7e20d516-92e0-4619-87fd-15a4110e9f8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-1468&quot;)</value>
-      <webElementGuid>a9d43c2e-53b4-4f5b-a98c-e82054184e2b</webElementGuid>
+      <webElementGuid>0ba62dae-6ffe-4593-bd84-9fd6f22803dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-1468']</value>
-      <webElementGuid>5cf00e52-826d-45e9-8c40-f55f3aeadcf7</webElementGuid>
+      <webElementGuid>ef0fd402-6b41-45b7-b62b-c8db3c646c4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/section/div/div/div/div[2]/lightning-input/div/div/input</value>
-      <webElementGuid>fde285c2-866f-4297-9e36-d7be196dcb83</webElementGuid>
+      <webElementGuid>cbacd4ee-c5a1-43a3-a772-f70d3062e825</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/lightning-input/div/div/input</value>
-      <webElementGuid>e50e1143-e201-4e53-ac04-ceb3a08783f2</webElementGuid>
+      <webElementGuid>a626dd47-3ee6-458b-bd0f-127f1e14314f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'input-1468' and @name = 'FolderName']</value>
-      <webElementGuid>d0ea14b2-069f-456e-a62e-a8028055f6c1</webElementGuid>
+      <webElementGuid>f5f00a20-4d35-4591-b27d-93b681ca0006</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

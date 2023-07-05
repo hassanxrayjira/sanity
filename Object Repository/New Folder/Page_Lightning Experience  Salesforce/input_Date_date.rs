@@ -6,12 +6,12 @@
    <elementGuidId>74628fbb-b6be-42d0-a535-a3afb81d6335</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@placeholder='Select Date']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#input-1509</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Select Date']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d70eae9a-8317-47b1-b292-57a46cf1e0f7</webElementGuid>
+      <webElementGuid>3a49e1f6-b641-4957-8371-468a91166a89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-input</value>
-      <webElementGuid>36b5551e-bfd8-4196-998a-4451fa8a11a0</webElementGuid>
+      <webElementGuid>252d42cc-71c1-49c3-bfd1-6c6592a08580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>df011483-e846-4671-b9a4-7c716dcffec4</webElementGuid>
+      <webElementGuid>a0955e99-4c47-4e76-9a0c-a18f298cdc5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-1509</value>
-      <webElementGuid>335b6d7e-9365-4218-a10c-a2b1a069770d</webElementGuid>
+      <webElementGuid>c80bfd4b-7012-4ea6-9c4b-f73543567063</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>349cd280-0d90-4ac4-a911-e5d1b279a2d0</webElementGuid>
+      <webElementGuid>622c9cde-71d6-468e-ae74-257342b35834</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Select Date</value>
-      <webElementGuid>a89a1aec-07cf-4286-b3b8-7412be0ca7ad</webElementGuid>
+      <webElementGuid>2b074a2d-4138-433b-8fb8-1e02d40aba9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>00e8bfa2-426d-4358-aa72-5107dafabd1d</webElementGuid>
+      <webElementGuid>598d1918-c51c-4644-82a9-6e454c5566d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-1509&quot;)</value>
-      <webElementGuid>c714a0d0-22c3-48ce-9e48-ae910beb150f</webElementGuid>
+      <webElementGuid>53c6383f-e0dd-410e-9c4c-2ea03ba152d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-1509']</value>
-      <webElementGuid>91d3fd2f-17d2-4aeb-8f48-177f2ea36711</webElementGuid>
+      <webElementGuid>0ed80118-a456-441e-ac6f-0c49277f3676</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div[3]/div[2]/div/div[2]/lightning-input/lightning-datepicker/div/div/input</value>
-      <webElementGuid>f3a59667-d5db-4732-8481-997c1ee640a2</webElementGuid>
+      <webElementGuid>f63cffbf-2f03-4729-af35-d2ad146f731a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-datepicker/div/div/input</value>
-      <webElementGuid>fda2d840-9bb6-4cda-bbb5-4257ee7b731a</webElementGuid>
+      <webElementGuid>82e59fb2-1426-4e08-99c9-2154c09598bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'input-1509' and @name = 'date' and @placeholder = 'Select Date']</value>
-      <webElementGuid>f05707cc-7783-40cd-8d87-fe4bec3c1b53</webElementGuid>
+      <webElementGuid>89046cc8-a18c-47b5-b221-3a31a14b8639</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

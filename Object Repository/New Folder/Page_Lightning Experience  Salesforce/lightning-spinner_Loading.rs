@@ -6,12 +6,12 @@
    <elementGuidId>e48c2d85-45c8-4357-8c83-118f77792d47</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>C</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>lightning-spinner.loader-background.slds-spinner_container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'QR POCQuota Refinement >  ExitSaveCurrent Stage:DetailsCycle Level ConfigurationsProduct Level ConfigurationsView Refinement*NameName*Business UnitBusiness UnitSelect Business UnitTeamTeamNoneSub TeamSub TeamNone*ProductNone*Time PeriodSelect Time Period*DateDateSelect a date for Date  Period Start DatePeriod Start DateSelect a date for Period Start Date  Period End DatePeriod End DateSelect a date for Period End Date  GoalGoal*RosterRosterCancel and closeGoalsStatusData AdapterNameBusiness UnitProductsFrequencyNameFrequencyVersionLast Modified DateLast Modified ByCancelSaveCancel and closeRosterNamePeriodVersionLast Updated ByLast Updated OnCancelSaveNext' or . = 'QR POCQuota Refinement >  ExitSaveCurrent Stage:DetailsCycle Level ConfigurationsProduct Level ConfigurationsView Refinement*NameName*Business UnitBusiness UnitSelect Business UnitTeamTeamNoneSub TeamSub TeamNone*ProductNone*Time PeriodSelect Time Period*DateDateSelect a date for Date  Period Start DatePeriod Start DateSelect a date for Period Start Date  Period End DatePeriod End DateSelect a date for Period End Date  GoalGoal*RosterRosterCancel and closeGoalsStatusData AdapterNameBusiness UnitProductsFrequencyNameFrequencyVersionLast Modified DateLast Modified ByCancelSaveCancel and closeRosterNamePeriodVersionLast Updated ByLast Updated OnCancelSaveNext')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>lightning-spinner</value>
-      <webElementGuid>4310a37b-260e-4300-9f28-280ac7df40fa</webElementGuid>
+      <webElementGuid>2e205d10-e839-4c0e-969d-85bd5cb4a0aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>loader-background slds-spinner_container</value>
-      <webElementGuid>7791fd6f-cb22-4ec7-b039-176c070d4e99</webElementGuid>
+      <webElementGuid>94c9b2fa-dcb5-4c46-8021-c70a22fe3580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>variant</name>
       <type>Main</type>
       <value>brand</value>
-      <webElementGuid>72fc793f-bd85-4ef8-ad12-7595bdea9970</webElementGuid>
+      <webElementGuid>4b0e6035-dee3-47c1-9e15-3a717212a00c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>size</name>
       <type>Main</type>
       <value>medium</value>
-      <webElementGuid>b35ba6dd-3ff2-4cb7-b411-edad311ea76d</webElementGuid>
+      <webElementGuid>7f6d850f-eec1-4471-8fd3-20331bbcc1ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Loading</value>
-      <webElementGuid>79d5b5b7-7b37-4de7-9d61-af5c1217ad56</webElementGuid>
+      <webElementGuid>bd961aa8-90c5-4b7c-a0eb-47287e8d165e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/div[1]/lightning-spinner[@class=&quot;loader-background slds-spinner_container&quot;]</value>
-      <webElementGuid>c0aa2698-62fc-4a68-981f-329ec2b066de</webElementGuid>
+      <webElementGuid>1a205317-bc88-4d8e-9fa8-f6bd764bf0c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/lightning-spinner</value>
-      <webElementGuid>25d2abb3-11fe-49bd-9062-5d9f588fc46b</webElementGuid>
+      <webElementGuid>962aa0af-0725-4aaf-a7c8-2bb4d2db27ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View Refinement'])[1]/following::lightning-spinner[1]</value>
-      <webElementGuid>427c6869-0edb-45a8-bede-78d00b5a7cc6</webElementGuid>
+      <webElementGuid>a734b0a3-7f67-499d-b6a1-427b90231ea9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Level Configurations'])[1]/following::lightning-spinner[1]</value>
-      <webElementGuid>d3d23e92-fcd7-47e8-85c4-bd0750e11fcf</webElementGuid>
+      <webElementGuid>18a3b27f-bf21-4384-8bc4-bb9432fae491</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::lightning-spinner[1]</value>
-      <webElementGuid>54454ec0-11e4-4f9e-a624-42efcbfdff11</webElementGuid>
+      <webElementGuid>d2adb207-4fe7-4b8f-8a84-df646ccf8b6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-spinner</value>
-      <webElementGuid>db1d96ea-dc06-4df3-8022-8782d299b63b</webElementGuid>
+      <webElementGuid>4199902d-cb40-4256-9fb8-b96a3747fe1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//lightning-spinner[(text() = 'Loading' or . = 'Loading')]</value>
-      <webElementGuid>582c3f6a-2dea-4037-9599-765f5109bff5</webElementGuid>
+      <webElementGuid>e0af2ac4-c4e0-4a51-a4e1-29b404197ac3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

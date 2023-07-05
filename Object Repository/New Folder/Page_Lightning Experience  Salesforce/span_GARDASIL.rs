@@ -6,12 +6,12 @@
    <elementGuidId>ddd5f7cc-cec4-4d7c-b6ae-593f55620ce6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[(text() = 'CRESMBA')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#GARDASIL-1489 > span.slds-media__body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'CRESMBA')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1acd2df7-5fba-4260-8e36-b32cdb3775f9</webElementGuid>
+      <webElementGuid>c36fa843-0e3c-4dbc-9ef4-676af23c435b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-media__body</value>
-      <webElementGuid>88570bd0-efa0-43fc-b04c-963f1f5241a9</webElementGuid>
+      <webElementGuid>2e346144-d12a-4086-b608-f5b2a046ec80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>GARDASIL</value>
-      <webElementGuid>8f16b152-4aea-46fb-b0c2-84f177b55aea</webElementGuid>
+      <webElementGuid>22ebb936-3d75-41fa-bde3-2ae0c7ed9639</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;GARDASIL-1489&quot;)/span[@class=&quot;slds-media__body&quot;]</value>
-      <webElementGuid>9aab6aec-e2cf-4d52-8e4d-6ad31144b490</webElementGuid>
+      <webElementGuid>1b45af65-8bf8-49f1-a5ea-3a255eae3ecd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='GARDASIL-1489']/span[2]</value>
-      <webElementGuid>b34ec151-3e04-4ad0-b9cd-2880362fd669</webElementGuid>
+      <webElementGuid>3bbd1a07-c10c-4b40-bd07-378600bce771</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CRESMBA'])[1]/following::span[3]</value>
-      <webElementGuid>97441e4f-c55e-47ed-911e-8236f8a2c8e7</webElementGuid>
+      <webElementGuid>73b33821-1ca9-4855-9930-f2cf2e948242</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/following::span[7]</value>
-      <webElementGuid>a92cd19d-fda5-42a4-96db-4b22438cc9c6</webElementGuid>
+      <webElementGuid>c61b3a5e-ebe1-48fa-9ea4-59a9e2c71f23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GARDASIL 9'])[1]/preceding::span[4]</value>
-      <webElementGuid>5ef6048e-125a-41b9-9009-cddf7e649e1e</webElementGuid>
+      <webElementGuid>876eb269-a7db-4971-af42-b9f467c54e73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span[2]</value>
-      <webElementGuid>a3ffd69e-cc37-40db-9ebe-6257811db343</webElementGuid>
+      <webElementGuid>05b5ee16-d3b3-4d35-a4ae-88efeac4d696</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'GARDASIL' or . = 'GARDASIL')]</value>
-      <webElementGuid>5b0ce8c9-1c01-4052-8eac-6e2cd63ae0d8</webElementGuid>
+      <webElementGuid>94a3cff5-becb-4fd2-9af7-dd85f5d4256d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

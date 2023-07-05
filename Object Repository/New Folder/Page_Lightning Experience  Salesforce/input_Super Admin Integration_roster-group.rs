@@ -6,12 +6,12 @@
    <elementGuidId>cf4c7c06-f86a-4377-bb6d-8334c8eaf22f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[.//div[@title='VAC_Roster_22K']]/preceding-sibling::td[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#a1D5e000000vxAZEAY-1489</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[.//div[@title='VAC_Roster_22K']]/preceding-sibling::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3f91bfa8-de78-42b3-8930-d1b2f3ded9c1</webElementGuid>
+      <webElementGuid>c6e341b6-98e6-4a94-9b04-b1e79a119701</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>roster-radio</value>
-      <webElementGuid>fb17371e-f94e-4fec-a46f-5229b0afb68b</webElementGuid>
+      <webElementGuid>9df43018-e585-4c81-b3de-030e8521143c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>cdb770c5-1a40-40a5-a3c8-c210446e10cb</webElementGuid>
+      <webElementGuid>1b6eeedc-16ca-4734-962b-c657d5aaa567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>a1D5e000000vxAZEAY-1489</value>
-      <webElementGuid>1c018fb3-5a95-4ad1-bef0-d0ac8c9ac740</webElementGuid>
+      <webElementGuid>4a1bbf52-595c-4086-9db0-0ba70275abc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>roster-group</value>
-      <webElementGuid>20148999-e826-4afd-85e2-4c2746f84040</webElementGuid>
+      <webElementGuid>822fea43-3697-49a8-93b8-b19092644338</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>undefined</value>
-      <webElementGuid>60a716fe-4d44-4b4c-bd02-0cc0ad65bec4</webElementGuid>
+      <webElementGuid>63d8724d-bcdd-4981-8fe2-6c204eea0d93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;a1D5e000000vxAZEAY-1489&quot;)</value>
-      <webElementGuid>1f3645eb-a557-4189-8989-7af9b50fba0a</webElementGuid>
+      <webElementGuid>59af73ad-8e64-4f96-bf81-c6d49dc0bf47</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='a1D5e000000vxAZEAY-1489']</value>
-      <webElementGuid>3434243c-fa6f-4920-a916-4ed1c660fb8b</webElementGuid>
+      <webElementGuid>e6a9b973-20d4-4fa4-89ae-4b6c04d6f500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-content-id-2-1489']/div[2]/table/tbody/tr[20]/td/input</value>
-      <webElementGuid>f90e338f-5f35-40e9-b269-8358d84bfb60</webElementGuid>
+      <webElementGuid>b83ecd7e-e443-498e-94a9-9596318ce70a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[2]/div/div[2]/div[2]/table/tbody/tr[20]/td/input</value>
-      <webElementGuid>73eaf3c7-47a4-4fc2-b04f-3e88b31578fa</webElementGuid>
+      <webElementGuid>9fdbc3c2-8b57-4c8c-a749-305ed50039cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'a1D5e000000vxAZEAY-1489' and @name = 'roster-group']</value>
-      <webElementGuid>35d853ff-1bac-4f51-9081-848823693532</webElementGuid>
+      <webElementGuid>ad70f5ff-9654-47da-be1c-9467c4285c86</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

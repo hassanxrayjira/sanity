@@ -65,19 +65,27 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_Li
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_New Quota Refinement'))
 
-WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_quotaName'), 
-    'Test')
-
 not_run: WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/lightning-spinner_Loading'))
 
 not_run: WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_quotaName'))
 
+def now = new Date()
+
+String val = now.format('yyyy-mm-dd HH:mm:s')
+
+println('Test' + val)
+
 not_run: WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_quotaName'), 
-    'Test1234322221')
+    val)
+
+WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_quotaName'), 
+    val)
 
 WebUI.delay(8)
 
-not_run: WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/lightning-spinner_Loading'))
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/lightning-spinner_Loading'))
+
+not_run: WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/div_Business UnitBusiness UnitVacAllergybuB_99ca2d'))
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Select Business Unit'))
 
@@ -90,6 +98,8 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experien
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/div_ProductSelect ProductAllCRESMBAGARDASIL_ddc9a7'))
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Select Product'))
+
+WebUI.delay(8)
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/span_GARDASIL'))
 

@@ -6,12 +6,12 @@
    <elementGuidId>00dc0882-118d-4d93-a6a3-9931ea1baeff</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[(text() = 'Daily')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#combobox-button-1505-0-1505 > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Daily')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c50000ac-8324-4b52-83a4-e1f67b8126a6</webElementGuid>
+      <webElementGuid>151c294e-66cd-42c2-b4f2-f535778ff6dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-truncate</value>
-      <webElementGuid>417e46d0-06ca-43e2-96ba-72b3d3134cd1</webElementGuid>
+      <webElementGuid>640680fc-68b2-476d-a506-e7c8e2a4243b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Daily</value>
-      <webElementGuid>9f8992b7-55c6-4708-b8f5-db4ae7c8168f</webElementGuid>
+      <webElementGuid>9a7a3b23-ad63-4b86-8a71-489edd0e0fcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Daily</value>
-      <webElementGuid>db4227af-4247-450a-bf46-45cb6bd119ea</webElementGuid>
+      <webElementGuid>bfb2d00a-cd3a-44cc-a132-0b41fd781c27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;combobox-button-1505-0-1505&quot;)/span[@class=&quot;slds-media__body&quot;]/span[@class=&quot;slds-truncate&quot;]</value>
-      <webElementGuid>bf8e8299-5538-4620-871b-ffa815b8f438</webElementGuid>
+      <webElementGuid>621e2d2a-d801-4171-b550-41098107e8d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//lightning-base-combobox-item[@id='combobox-button-1505-0-1505']/span[2]/span</value>
-      <webElementGuid>9902521a-c079-48cc-b853-f1e9a3d28874</webElementGuid>
+      <webElementGuid>eb961024-76bc-45c2-a29c-d3382bb0b718</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Time Period'])[1]/following::span[4]</value>
-      <webElementGuid>da62ecc0-65bc-4adb-8732-94b3a457dfe3</webElementGuid>
+      <webElementGuid>5db0acce-06df-4936-8207-c446ab36d147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Period'])[1]/following::span[5]</value>
-      <webElementGuid>88e1ea82-f0b8-4ac6-83af-d104cc9a2acd</webElementGuid>
+      <webElementGuid>446f6ef1-73db-432b-a7fc-2b6fc3c450c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekly'])[1]/preceding::span[2]</value>
-      <webElementGuid>3160c1b6-abdd-40df-af22-12c1c6a240d5</webElementGuid>
+      <webElementGuid>7b14d935-861f-4e5f-b701-be1f6a692c65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly'])[1]/preceding::span[5]</value>
-      <webElementGuid>75604098-3144-49aa-8aee-6d650ac2e5c1</webElementGuid>
+      <webElementGuid>dceb4e18-592a-4eb5-b9d6-d95cc2755e17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daily']/parent::*</value>
-      <webElementGuid>278ec8b0-be40-46e6-a06a-e4f173293549</webElementGuid>
+      <webElementGuid>986d7479-3745-4171-aa63-ea0d543ce03b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/lightning-combobox/div/lightning-base-combobox/div/div[2]/lightning-base-combobox-item/span[2]/span</value>
-      <webElementGuid>bf11adc2-2c09-498d-bdfc-f1748b866ea0</webElementGuid>
+      <webElementGuid>c1f09797-4b09-4914-bd05-b7f053628387</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@title = 'Daily' and (text() = 'Daily' or . = 'Daily')]</value>
-      <webElementGuid>8977213d-194e-43bd-ba1b-c5032508ddbf</webElementGuid>
+      <webElementGuid>d2d909a2-3d7b-459a-896d-191b5ba692f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

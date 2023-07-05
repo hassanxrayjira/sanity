@@ -6,12 +6,12 @@
    <elementGuidId>53f72b98-8d80-4ed6-9acd-ab01aced3676</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@aria-label='Select Time Period']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#combobox-button-1505</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@aria-label='Select Time Period']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b75f13f7-9609-4698-8772-5a926070f015</webElementGuid>
+      <webElementGuid>492756a1-670e-4b4c-8d61-74cf5e187c6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-combobox__input slds-input_faux</value>
-      <webElementGuid>b8c3eb8b-7862-4d23-b8f9-ba660fcbbdf3</webElementGuid>
+      <webElementGuid>a1357c68-55e1-4869-bfc7-a8d064864409</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>combobox-button-1505</value>
-      <webElementGuid>04f38eba-c3c6-4542-8e42-a65dc552bae0</webElementGuid>
+      <webElementGuid>9650375e-81af-4efd-b4f3-6e3da781337d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>46043205-54cf-4284-8dbb-d144ab2fc3e9</webElementGuid>
+      <webElementGuid>49c2f307-7d56-4b1d-8184-9895b3bc03b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e7624be0-72ad-46c3-a1a8-0618af8c8512</webElementGuid>
+      <webElementGuid>13d92d7d-850b-4acb-a15e-14c9ef47fe57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>fe21515e-81ae-4cd7-b265-e4a1e5678ea5</webElementGuid>
+      <webElementGuid>5d7ffdc9-74ac-46e2-9634-8de21b608fdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>timePeriod</value>
-      <webElementGuid>cf7db2e1-4a40-43ad-b806-1ed5cdf67e33</webElementGuid>
+      <webElementGuid>3ffbf0ba-d395-4853-b377-0f237536a5ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>eba68542-89c8-4a5e-a66f-3ea43651032e</webElementGuid>
+      <webElementGuid>bd078bf6-80fc-4f3f-bd6e-7371cd444b56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Select Time Period</value>
-      <webElementGuid>eddcce9a-26c4-4291-9712-b4bf1df3bbe8</webElementGuid>
+      <webElementGuid>7393c201-09db-47c6-958c-e5b4959c2adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>02c45ce5-a35c-4ed1-a175-e1d757205725</webElementGuid>
+      <webElementGuid>81bf43d3-3030-45a7-803e-0ed75f3d40a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>dropdown-element-1505</value>
-      <webElementGuid>13d9309c-cfbd-4eff-86d3-d96919db3ab8</webElementGuid>
+      <webElementGuid>8fd74565-ac2a-46d7-889e-928fad1a0ce0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Time Period</value>
-      <webElementGuid>a2b89a3c-6992-44ce-bfcb-3869f7c35fff</webElementGuid>
+      <webElementGuid>3ff40ddb-c6dd-4574-a880-e2f525e259c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;combobox-button-1505&quot;)</value>
-      <webElementGuid>8f179397-3286-456f-ad2d-dcb8640ae0d8</webElementGuid>
+      <webElementGuid>49368058-be13-4990-aa85-c92075142c4f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='combobox-button-1505']</value>
-      <webElementGuid>3a80e14b-df84-499b-8c3a-ba12c74fd1ce</webElementGuid>
+      <webElementGuid>51e0d3fd-2e01-4979-8cb5-53913c621a87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div[3]/div[2]/div/div/lightning-combobox/div/lightning-base-combobox/div/div/button</value>
-      <webElementGuid>a0de1000-225c-43c3-aa83-91601442e873</webElementGuid>
+      <webElementGuid>fd0a78cf-c2bb-48ba-863f-7c975a57a3db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Period'])[1]/following::button[1]</value>
-      <webElementGuid>4beb63f5-2b53-4986-923f-48511842ab0b</webElementGuid>
+      <webElementGuid>e045d0f4-b8c6-47c5-a01c-9deb1a2bb29f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::button[1]</value>
-      <webElementGuid>683f285c-9343-4720-ba90-6d7297ccc931</webElementGuid>
+      <webElementGuid>440b6821-83a9-4b04-9a1b-bed66eb0570e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::button[1]</value>
-      <webElementGuid>c8d54b3a-549e-4970-8069-72951ac5c17e</webElementGuid>
+      <webElementGuid>5ab5ab0a-b9c8-4f3f-b618-9072c295492f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/lightning-combobox/div/lightning-base-combobox/div/div/button</value>
-      <webElementGuid>20f3ba91-a12f-4398-b019-7abcfa979a19</webElementGuid>
+      <webElementGuid>483c72e4-5e1b-4a0f-a349-268dc4d9cca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'combobox-button-1505' and @type = 'button' and @name = 'timePeriod' and (text() = 'Select Time Period' or . = 'Select Time Period')]</value>
-      <webElementGuid>f5db7df9-3f8b-41ba-8c9e-b3f36458ddbe</webElementGuid>
+      <webElementGuid>a870e33c-8979-4ebb-98b3-eefc4bde638e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

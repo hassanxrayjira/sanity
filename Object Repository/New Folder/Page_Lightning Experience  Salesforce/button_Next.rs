@@ -6,12 +6,12 @@
    <elementGuidId>ae8ec41e-a977-42e0-b6fe-4880598c414d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[text()='Next']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>lightning-button.slds-m-left_medium > button.slds-button.slds-button_brand</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[text()='Next']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7bd6f6e8-6fa9-462f-9a3a-f9f48a15c1e2</webElementGuid>
+      <webElementGuid>7fdc4e71-5aac-4273-80cf-89450e90e568</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-button slds-button_brand</value>
-      <webElementGuid>df0bf207-104b-4c76-99c0-dd494c761a96</webElementGuid>
+      <webElementGuid>0191011b-3024-4877-b9a8-e7164ba0d560</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>10052ba3-5b0e-4682-9ea2-daecb9adb160</webElementGuid>
+      <webElementGuid>04192ae6-abc8-41d8-a5ec-d050c1d07ce0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>b13b7492-78f3-4556-b396-31f03d5fdb4e</webElementGuid>
+      <webElementGuid>5bfbc989-5aa3-4aaf-adb6-18dd7a0ddcdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b742d7ca-79e1-4d05-bd3d-8aa3d033dc00</webElementGuid>
+      <webElementGuid>758b4441-c13b-4650-9da0-76cb03149762</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>a4116a58-323a-471e-ac34-cd2bc4c16393</webElementGuid>
+      <webElementGuid>91eb67f0-261c-44fc-9db1-25fe70f31280</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/div[@class=&quot;padding-10 form-size footer-buttons&quot;]/lightning-button[@class=&quot;slds-m-left_medium&quot;]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
-      <webElementGuid>8af647ca-b029-475d-8658-bd4591badf96</webElementGuid>
+      <webElementGuid>7b76fab3-3204-41fc-a828-240a073a90dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[192]</value>
-      <webElementGuid>c3e090fc-7588-4dc3-baf5-85134c9d2191</webElementGuid>
+      <webElementGuid>da336c76-0ed0-4701-83f8-e1327f2546d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div[4]/lightning-button/button</value>
-      <webElementGuid>4dca68ad-26cc-49ab-aeaa-0b7ee67ffc34</webElementGuid>
+      <webElementGuid>ec837c9a-0936-4446-9580-ca0e96b3dc84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[3]/following::button[1]</value>
-      <webElementGuid>d0956732-c903-4c77-9c65-bbda4d87675a</webElementGuid>
+      <webElementGuid>0fd3784e-dde0-4ff1-a817-b09e4cda7990</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::button[2]</value>
-      <webElementGuid>c02294cf-e1ab-4706-b67d-096dd08affce</webElementGuid>
+      <webElementGuid>c9485d41-92c5-4cd6-bacf-bc397af6e296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please rotate your device to landscape mode to use the application.'])[1]/preceding::button[1]</value>
-      <webElementGuid>cb3fa00a-4d7a-4302-9fc5-23a29ab3b7f8</webElementGuid>
+      <webElementGuid>6ff9bcc2-4735-43b8-9fe1-46c50ad2f60a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No record selected'])[1]/preceding::button[1]</value>
-      <webElementGuid>a363bdce-9a18-492a-881f-36a01b244453</webElementGuid>
+      <webElementGuid>034ae998-154a-42c9-8d6a-9c0327927ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>fbec0dc7-9b36-485c-b742-110d08cd2fdb</webElementGuid>
+      <webElementGuid>b78a996b-aabd-4596-887a-28387f855e69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/lightning-button/button</value>
-      <webElementGuid>577e5542-1954-4225-8dbd-848c3e3b2313</webElementGuid>
+      <webElementGuid>c6f49abb-72d4-46da-be5d-a9258cc07a87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@title = 'Next' and @type = 'button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>931a4d48-f74f-43a6-9315-ca0c95a61451</webElementGuid>
+      <webElementGuid>649c7b17-6043-4933-a354-2f40d1701525</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

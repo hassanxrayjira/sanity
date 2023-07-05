@@ -6,12 +6,12 @@
    <elementGuidId>deb374c1-f02c-4ab0-af9c-a5f8bf13405d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@aria-label = 'Business Unit, Select Business Unit']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#combobox-button-1493</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@aria-label = 'Business Unit, Select Business Unit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4480a450-954c-4912-ac10-4cb41a67f0fe</webElementGuid>
+      <webElementGuid>bcef02a4-a336-4873-a768-36261f897b34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-combobox__input slds-input_faux</value>
-      <webElementGuid>784d89f6-200e-4a84-b171-a3ea002dad4a</webElementGuid>
+      <webElementGuid>04834bb4-c7ed-4ef1-a4bd-7954385ccbb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>combobox-button-1493</value>
-      <webElementGuid>0cb394de-9bc6-4af9-8e6a-7bb6b75e0014</webElementGuid>
+      <webElementGuid>754acad8-c91e-4419-9980-28a5fe3e26eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e8e74e86-ef3a-4923-8859-d9015a9d6bd4</webElementGuid>
+      <webElementGuid>e642052b-7428-48c5-9602-06c023ad08d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c62047b0-8640-42f5-85bb-1a76153e4fa0</webElementGuid>
+      <webElementGuid>c5912999-800a-422f-8efe-4b903ce4b467</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>489935f9-70ec-4299-8ca8-6afd023da585</webElementGuid>
+      <webElementGuid>0fbfda3d-67f5-4560-8764-18aa09dc2d64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>businessUnit</value>
-      <webElementGuid>46ff58a6-baa5-4d02-8263-71d749982136</webElementGuid>
+      <webElementGuid>bb4c13c0-2574-4c0a-ba21-5a6c261c0553</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>2b8fa202-c183-4895-8a99-27c328002bdd</webElementGuid>
+      <webElementGuid>8230607d-1147-4d25-aead-01cdc0af214e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Business Unit, Select Business Unit</value>
-      <webElementGuid>9b7cd956-ebb1-4d8d-b26d-ad1d7f4ba89b</webElementGuid>
+      <webElementGuid>5f34e919-304e-407d-85ff-706a04f96add</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>69fcf702-403f-4814-b03d-c1c3ade3eb38</webElementGuid>
+      <webElementGuid>31c068e9-a0e5-4b74-91b5-6bae4f0578c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>dropdown-element-1493</value>
-      <webElementGuid>03ab8987-5667-4059-bc14-a94a16597f37</webElementGuid>
+      <webElementGuid>c755eee7-80ff-4290-a45d-6b45b143df9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Business Unit</value>
-      <webElementGuid>4a8f9b03-6904-4aec-9656-6739669e0c66</webElementGuid>
+      <webElementGuid>a8f6f56d-b1b6-47ec-a8ef-9e4761bdd79f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;combobox-button-1493&quot;)</value>
-      <webElementGuid>293de4f5-bbb2-450e-be49-7508e6e282a8</webElementGuid>
+      <webElementGuid>0fe57d8e-3e72-4ecb-85fb-050cb478d836</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='combobox-button-1493']</value>
-      <webElementGuid>c2a79352-4a64-4c5d-88d8-6a6e6c21d0dc</webElementGuid>
+      <webElementGuid>60b9235c-76c3-4f7c-b87b-f9b67e3f03b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div/div[2]/lightning-combobox/div/lightning-base-combobox/div/div/button</value>
-      <webElementGuid>ca3e1f90-f5ee-480f-abd8-59f53fba97fa</webElementGuid>
+      <webElementGuid>6facc58f-8d6c-4bdb-8a90-4d15dd785b4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Unit'])[3]/following::button[1]</value>
-      <webElementGuid>60a1b0c5-820d-4b9a-a662-b25597424fe0</webElementGuid>
+      <webElementGuid>1be0e7bd-91b2-42fc-9829-8bbea01122f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Unit'])[2]/following::button[1]</value>
-      <webElementGuid>ab629945-59f1-482f-b23b-b245faf4a370</webElementGuid>
+      <webElementGuid>6dd15691-00ce-4f27-ae0d-754fb1a24534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Team'])[1]/preceding::button[1]</value>
-      <webElementGuid>2113e498-4e24-4984-860a-04f6ade4f341</webElementGuid>
+      <webElementGuid>10552173-9f74-4df0-b750-2ffef377b52f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/lightning-combobox/div/lightning-base-combobox/div/div/button</value>
-      <webElementGuid>1b2cffd0-08b5-4884-8ca9-4c057c5b6247</webElementGuid>
+      <webElementGuid>29b9ccb6-74ef-4ebb-b635-564095e4f90d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'combobox-button-1493' and @type = 'button' and @name = 'businessUnit' and (text() = 'Select Business Unit' or . = 'Select Business Unit')]</value>
-      <webElementGuid>42a199a6-8250-47c7-9caf-f1631e9553f6</webElementGuid>
+      <webElementGuid>61a38030-6449-49b2-ab89-8f3a69bd0930</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

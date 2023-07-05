@@ -6,12 +6,12 @@
    <elementGuidId>cc56fc14-a0ab-415a-a410-1206bffd7399</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@name='New Quota Refinement']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button[name=&quot;New Quota Refinement&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='New Quota Refinement']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1b4498c1-154c-4d68-880c-8601e8c7c51b</webElementGuid>
+      <webElementGuid>4993e298-89ef-49de-84e6-80582998fbaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-button slds-button_brand</value>
-      <webElementGuid>0d585efc-a58f-41e3-a18f-5987c6837821</webElementGuid>
+      <webElementGuid>c8804d61-c8f9-4edf-b213-f029bf935c6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>485bf08f-7d8b-4791-b4a4-9c3662c3e531</webElementGuid>
+      <webElementGuid>c202012e-32df-4c70-bd64-1636c222db92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>New Quota Refinement</value>
-      <webElementGuid>59d52e51-f89d-4daa-b2ab-bd4b210668fe</webElementGuid>
+      <webElementGuid>3cf6b9ee-341b-46b2-9847-795b9f53dcb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9fc3bf07-f086-4efe-9073-66757d635b85</webElementGuid>
+      <webElementGuid>a14f3910-42e4-447d-a086-d4cc47ee748b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New Quota Refinement</value>
-      <webElementGuid>1a3db0a8-ff35-43ca-a389-abf6485642ba</webElementGuid>
+      <webElementGuid>0761d3fd-9223-4e2e-b4eb-2dbbb983446a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr_-list-page-lwc[1]/div[@class=&quot;row&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/div[@class=&quot;slds-col slds-border_left&quot;]/lightning-layout[@class=&quot;slds-m-left--medium slds-m-right--medium slds-grid&quot;]/slot[@class=&quot;slds-slot&quot;]/div[1]/lightning-layout-item[1]/slot[1]/lightning-button[1]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
-      <webElementGuid>c919487c-7a5d-4f0b-a52f-fe98eb8f6f3e</webElementGuid>
+      <webElementGuid>5cd7e970-e3a7-44e0-99dd-3eb17b6acbd9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='New Quota Refinement']</value>
-      <webElementGuid>620cc05c-8065-4e58-9984-97da28fb116a</webElementGuid>
+      <webElementGuid>d2863935-6657-487d-8387-48c36d5f30e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/div[3]/lightning-layout/slot/div/lightning-layout-item/slot/lightning-button/button</value>
-      <webElementGuid>9c23e550-6a22-45c2-8786-ecf467fe2ca3</webElementGuid>
+      <webElementGuid>a2bca218-da40-48e5-b432-82ac09fe27b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::button[1]</value>
-      <webElementGuid>a1a48ecf-5fd6-488c-bd5a-5eee8c07f989</webElementGuid>
+      <webElementGuid>a5a87596-3798-415b-8b2b-4b9e38e7582d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quota Refinement List'])[2]/following::button[2]</value>
-      <webElementGuid>97fcdfc6-aad5-48e7-a2db-a51797ba1d68</webElementGuid>
+      <webElementGuid>4bbdb675-aacc-407d-a43e-062a1312b295</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::button[1]</value>
-      <webElementGuid>e933ce3f-81f8-43d7-87e6-e400355f3bf6</webElementGuid>
+      <webElementGuid>e1424fd6-aa28-4a90-af12-100f7f5cf9d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='New Quota Refinement']/parent::*</value>
-      <webElementGuid>57da94e4-f463-4a6d-98f1-2dab44a204c8</webElementGuid>
+      <webElementGuid>6513708a-f001-43de-9d13-a404597468cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//slot/lightning-button/button</value>
-      <webElementGuid>837da99c-56b9-48ad-97a7-0277a504bcb6</webElementGuid>
+      <webElementGuid>484f3fdd-abc7-4a34-bbaf-d98c12c57770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = 'New Quota Refinement' and @type = 'button' and (text() = 'New Quota Refinement' or . = 'New Quota Refinement')]</value>
-      <webElementGuid>a094fc8f-74cc-4419-a6ca-77a77d672dd3</webElementGuid>
+      <webElementGuid>abf76a0c-38e6-4c2a-855c-43ced1f6ebf6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
