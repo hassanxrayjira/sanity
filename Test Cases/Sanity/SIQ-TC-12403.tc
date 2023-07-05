@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Copy an existing QR cycle</description>
+   <name>SIQ-TC-12403</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cf325c6-9e01-487f-860d-761081e2d00e</testCaseGuid>
+</TestCaseEntity>

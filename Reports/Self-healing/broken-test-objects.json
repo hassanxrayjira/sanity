@@ -1,3 +1,24 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/input_Name_quotaName",
+      "brokenLocator": "//input[@id\u003d\u0027input-2615\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027brandBand_2\u0027]/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div/div/lightning-input/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/input_Name_quotaName_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/lightning-spinner_Loading",
+      "brokenLocator": "//div[@id\u003d\u0027brandBand_2\u0027]/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/lightning-spinner",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[(text() \u003d \u0027Loading\u0027 or . \u003d \u0027Loading\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": ""
+    }
+  ]
 }

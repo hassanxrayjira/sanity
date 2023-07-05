@@ -6,12 +6,12 @@
    <elementGuidId>dc39503d-d49c-4591-8799-e0e0eae577ff</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>section.slds-modal.rosterModalBox.slds-fade-in-open > div.slds-modal__container.modal-width > div.slds-modal__footer > button.slds-button.slds-button_brand</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::button[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;brandBand_2&quot;]/div/div/div[3]/siqic-qr-new-cycle-creation/div[1]/div[3]/c-qr-h-o-details/section[2]/div/div[3]/button[2]</value>
+         <key>CSS</key>
+         <value>section.slds-modal.rosterModalBox.slds-fade-in-open > div.slds-modal__container.modal-width > div.slds-modal__footer > button.slds-button.slds-button_brand</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7cbf529a-031a-4510-a303-f302a4bbd3dd</webElementGuid>
+      <webElementGuid>15cfa35f-dd26-4fbc-9982-0a35a16e7e59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-button slds-button_brand</value>
-      <webElementGuid>24d3a9d7-7e74-4891-a322-63d1b806840a</webElementGuid>
+      <webElementGuid>17c1f9b1-d94a-451c-8a8c-dc2ad102909f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>5d90d2dd-ec95-4a0d-96ab-0f4f07816a92</webElementGuid>
+      <webElementGuid>a1fa83ad-2264-45dc-b8be-7bd42c45f3d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/section[@class=&quot;slds-modal rosterModalBox slds-fade-in-open&quot;]/div[@class=&quot;slds-modal__container modal-width&quot;]/div[@class=&quot;slds-modal__footer&quot;]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
-      <webElementGuid>66c7b19a-eff4-40c6-8749-ea458ee4d57e</webElementGuid>
+      <webElementGuid>2dfc03df-7440-420a-a497-0cba80ec1c13</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/section[2]/div/div[3]/button[2]</value>
-      <webElementGuid>78778670-04f0-4d0a-bcf4-09bc99703027</webElementGuid>
+      <webElementGuid>3a6292c9-6f23-4f43-818d-0a61cf88a555</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::button[1]</value>
-      <webElementGuid>2fac9d06-7fb6-4d27-884d-1ee93a5e34ae</webElementGuid>
+      <webElementGuid>7a055a9f-0a03-491e-b85f-55552f58fe2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Admin Integration'])[76]/following::button[2]</value>
-      <webElementGuid>a35bed7f-3e1c-41aa-b81e-3eb5602a399e</webElementGuid>
+      <webElementGuid>3f57a2e3-5b8d-4db5-b334-48e9b9241f4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::button[1]</value>
-      <webElementGuid>db99b917-4c83-43dd-907c-abdcbda85083</webElementGuid>
+      <webElementGuid>263fe3cf-a520-421d-86b6-a4449378914b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please rotate your device to landscape mode to use the application.'])[1]/preceding::button[2]</value>
-      <webElementGuid>e2888a21-dfb7-40ad-ab89-cae018e41cf8</webElementGuid>
+      <webElementGuid>34c456f2-105a-4459-a633-791e2d9753c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[2]/div/div[3]/button[2]</value>
-      <webElementGuid>051e22c5-5e37-4ab9-a701-b4ea19eb1c2f</webElementGuid>
+      <webElementGuid>d0902b86-3579-4d95-9158-26aa5c42e82d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>7f8fb6b7-7471-4472-83d9-4b0aac7f5c96</webElementGuid>
+      <webElementGuid>2e1d95f9-b906-481a-80db-bd2d7d01bc93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

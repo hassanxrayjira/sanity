@@ -24,4 +24,9 @@
       <initValue>'!QATEST121'</initValue>
       <name>QL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2023-12-06 01:12:41'</initValue>
+      <name>FolderName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

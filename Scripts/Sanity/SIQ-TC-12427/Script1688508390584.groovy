@@ -27,19 +27,22 @@ WebUI.callTestCase(findTestCase('Login Logout/Login'), [:], FailureHandling.STOP
 WebUI.delay(6)
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), 
-    0)
+    10)
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), FailureHandling.STOP_ON_FAILURE)
 
 //WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/a_Quota Refinement'))
 WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'))
 
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Show All'), 
+    10)
+
 WebUI.rightClick(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Show All'))
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_New Folder'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/div_Name'), 
-    0)
+    10)
 
 //def now = new Date()
 //String val = now.format ('yyyy-mm-dd HH:mm:s')
@@ -112,6 +115,8 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experien
 WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Date_date'), '7/4/2004')
 
 WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Cancel and close'))
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Cancel and close'))
 
