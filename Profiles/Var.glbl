@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'!'</initValue>
-      <name>fname</name>
+      <initValue>'!QATEST121'</initValue>
+      <name>QL</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

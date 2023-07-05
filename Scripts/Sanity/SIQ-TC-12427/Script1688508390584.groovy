@@ -48,8 +48,10 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_Li
 //
 //String val2 = 'Test' +val;
 WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_FolderName'), 
-    '!QATEST')
+    GlobalVariable.QL)
 
+//
+//WebUI.sendKeys(findTestObject('your test object name', ['QQL': QQL]),  GlobalVariable.QL)
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_slds-button slds-button_brand'))
 
 //TestObject to = findTestObject('yObject Repository/New Folder/Page_Lightning Experience  Salesforce/button_12345', ['newName': newName]);
@@ -95,11 +97,11 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experien
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/span_Alpha'))
 
-WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/div_ProductSelect ProductAllCRESMBAGARDASIL_ddc9a7'))
-
-WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Select Product'))
+not_run: WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/div_ProductSelect ProductAllCRESMBAGARDASIL_ddc9a7'))
 
 WebUI.delay(8)
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Select Product'))
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/span_GARDASIL'))
 
@@ -109,7 +111,11 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experien
 
 WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Date_date'), '7/4/2004')
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Cancel and close'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Super Admin Integration_roster-group'))
 
