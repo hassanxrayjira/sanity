@@ -16,8 +16,100 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.time.OffsetDateTime as OffsetDateTime
+import java.time.ZoneOffset as ZoneOffset
+import java.time.format.DateTimeFormatter as DateTimeFormatter
+import java.time.format.DateTimeFormatterBuilder as DateTimeFormatterBuilder
+import java.util.Locale as Locale
 
 WebUI.callTestCase(findTestCase('Login Logout/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(6)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), FailureHandling.STOP_ON_FAILURE)
+
+//WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/a_Quota Refinement'))
+WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'))
+
+WebUI.rightClick(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Show All'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_New Folder'))
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/div_Name'), 
+    0)
+
+//def now = new Date()
+//String val = now.format ('yyyy-mm-dd HH:mm:s')
+//
+//println('Value is:' + val)
+//
+//String val2 = 'Test' +val;
+WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_FolderName'), 
+    '!QATEST')
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_slds-button slds-button_brand'))
+
+//TestObject to = findTestObject('yObject Repository/New Folder/Page_Lightning Experience  Salesforce/button_12345', ['newName': newName]);
+//println to.getSelectorCollection().toString(); // Should see your XPath which contains the actual value of newName, among other stuffs
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_12345'))
+
+//
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_New Quota Refinement'), 
+    0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_New Quota Refinement'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_New Quota Refinement'))
+
+WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_quotaName'), 
+    'Test')
+
+not_run: WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/lightning-spinner_Loading'))
+
+not_run: WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_quotaName'))
+
+not_run: WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Name_quotaName'), 
+    'Test1234322221')
+
+WebUI.delay(8)
+
+not_run: WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/lightning-spinner_Loading'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Select Business Unit'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/span_Vac'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Select Team'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/span_Alpha'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/div_ProductSelect ProductAllCRESMBAGARDASIL_ddc9a7'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Select Product'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/span_GARDASIL'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Select Time Period'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/span_Daily'))
+
+WebUI.setText(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Date_date'), '7/4/2004')
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Cancel and close'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/input_Super Admin Integration_roster-group'))
+
+WebUI.delay(8)
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Save'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Next'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Next_1'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_Lightning Experience  Salesforce/button_Generate Cycle'))
 

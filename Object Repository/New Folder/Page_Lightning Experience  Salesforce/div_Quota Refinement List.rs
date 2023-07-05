@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Quota Refinement List</name>
+   <tag></tag>
+   <elementGuidId>254012dc-7945-4a0d-9b22-f54c7558b5ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/div[3]/div/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>acd24868-061c-4854-8adb-4dc650ee4c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>a3e2b7bf-6092-4a27-bcdd-b106c858ab52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Quota Refinement List</value>
+      <webElementGuid>934ae603-adea-485f-b80b-31265ce5199f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quota Refinement List</value>
+      <webElementGuid>840d96f0-b4b3-4884-b6e9-def59aeaa6a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr_-list-page-lwc[1]/div[@class=&quot;row&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/div[@class=&quot;slds-col slds-border_left&quot;]/div[@class=&quot;head slds-m-left--medium slds-m-right--medium&quot;]/div[@class=&quot;slds-page-header&quot;]/div[@class=&quot;slds-page-header__row&quot;]/div[@class=&quot;slds-page-header__col-title&quot;]/div[@class=&quot;slds-media slds-m-left--medium&quot;]/div[@class=&quot;slds-media__body&quot;]/div[1]/div[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>9be6e07d-d092-43f5-8c5a-84fc4f0b5aeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/div[3]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>5a6693e2-2824-4b33-b936-2cdbde093169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quota Refinement List'])[1]/following::div[7]</value>
+      <webElementGuid>0cb3b6db-d421-47fa-9c98-d1779eba59c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Folder'])[1]/following::div[10]</value>
+      <webElementGuid>8d8cdfd3-4bce-4530-bace-e97c950d900f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::div[1]</value>
+      <webElementGuid>6ea2307d-4193-4a9b-b627-2fada9cbd96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>b1279222-f621-4a4e-a20e-dcebf4281574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Quota Refinement List' and (text() = 'Quota Refinement List' or . = 'Quota Refinement List')]</value>
+      <webElementGuid>3b0cc250-c431-42bb-9af0-56cfefd5b2b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

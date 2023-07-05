@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>dc39503d-d49c-4591-8799-e0e0eae577ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/section[2]/div/div[3]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.slds-modal.rosterModalBox.slds-fade-in-open > div.slds-modal__container.modal-width > div.slds-modal__footer > button.slds-button.slds-button_brand</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>250ccea1-5697-41f3-8557-6af8af4cf0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_brand</value>
+      <webElementGuid>f46cb845-65e2-4285-925c-1faee973002c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>ca676289-6014-474a-b0cc-8ca01a469ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/section[@class=&quot;slds-modal rosterModalBox slds-fade-in-open&quot;]/div[@class=&quot;slds-modal__container modal-width&quot;]/div[@class=&quot;slds-modal__footer&quot;]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
+      <webElementGuid>cc031ac6-ab53-4739-b411-846ef2646649</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/section[2]/div/div[3]/button[2]</value>
+      <webElementGuid>141762c8-f5ff-47e9-b6ce-599efed311b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::button[1]</value>
+      <webElementGuid>5040d5a5-3c57-4178-bd9e-2fdaaf795dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Admin Integration'])[76]/following::button[2]</value>
+      <webElementGuid>f67e5548-f6d1-4263-8778-d56248000d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::button[1]</value>
+      <webElementGuid>f2bbb32e-3c04-4ef9-9722-4a8ee050617d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please rotate your device to landscape mode to use the application.'])[1]/preceding::button[2]</value>
+      <webElementGuid>8d921a1f-d940-431d-b553-fe86a7f85259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div[3]/button[2]</value>
+      <webElementGuid>b55ca4da-7cde-4a20-b79f-f02ecc3ec9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>ba86048d-1f84-4c60-a71b-7d15eef748b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

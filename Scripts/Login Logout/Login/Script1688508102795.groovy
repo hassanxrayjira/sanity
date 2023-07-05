@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-
+WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://login.salesforce.com/')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Login/Page_Login  Salesforce/label_Username'), 'Username')
