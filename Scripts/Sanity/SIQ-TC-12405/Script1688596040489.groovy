@@ -17,13 +17,48 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Sanity/SIQ-TC-12402'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Login Logout/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_View Full Hierarchy'), 
+    0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/label_Product'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_Submit'))
 
 WebUI.delay(6)
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'),
-	10)
+WebUI.click(findTestObject('Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
+
+WebUI.click(findTestObject('New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_Delegate'))
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/h1_Delegation'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_Business Unit_slds-radio_faux'))
+
+WebUI.delay(6)
+
+WebUI.scrollToElement(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_User Type_slds-checkbox_faux'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_User Type_slds-checkbox_faux'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_Populate'))
+
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_Populate'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_Proceed'))
+
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_Proceed'))
+
+WebUI.delay(6)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), 
+    10)
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), FailureHandling.STOP_ON_FAILURE)
 
@@ -31,3 +66,4 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Sale
 WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'))
 
 WebUI.click(findTestObject('Object Repository/New Folder/Delet QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
+

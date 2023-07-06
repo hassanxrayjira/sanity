@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Next_1</name>
+   <name>button_Populate</name>
    <tag></tag>
-   <elementGuidId>6022233f-3731-4886-aa42-de29f70c9caf</elementGuidId>
+   <elementGuidId>ddb43bb2-74a9-4713-a5d4-65be7d8c7abc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[724]</value>
+         <value>//button[@name='Populate']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.slds-button.slds-button_brand</value>
+         <value>button[name=&quot;Populate&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>33d361af-9fa6-46b4-b582-643b4349202d</webElementGuid>
+      <webElementGuid>21fee7ce-6226-4514-979d-04fabe8f91b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>slds-button slds-button_brand</value>
-      <webElementGuid>46204d35-f9e1-445d-8440-38553afb685b</webElementGuid>
+      <value>slds-button slds-button_neutral</value>
+      <webElementGuid>37ac41a9-d835-43ce-8ef0-fea534bcb003</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4e3a06c4-45ab-49b2-b990-faef9b20a53e</webElementGuid>
+      <webElementGuid>bcb07967-881a-4be5-9915-af3046022d3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Primary action</value>
-      <webElementGuid>d62c3d72-2bca-474f-abfc-9b6d8d9c8eb5</webElementGuid>
+      <value>Populate</value>
+      <webElementGuid>2dcb42bb-6fb3-4d9b-aa47-4e6102c0d0eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,94 +54,94 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8384b37c-d726-4ca1-82d8-96c7ef738a19</webElementGuid>
+      <webElementGuid>45207f2c-5899-4e09-b4b0-10f12a57e15f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Next</value>
-      <webElementGuid>b7f37746-134f-4888-83f1-acabef58fb53</webElementGuid>
+      <value>Populate</value>
+      <webElementGuid>dabb2976-6bd8-4e31-bf5d-b2a268ea1d96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-2&quot;]/c-qr-h-o-cycle-level[1]/div[@class=&quot;padding-10 form-size footer-buttons&quot;]/lightning-button[@class=&quot;slds-m-left_x-small&quot;]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
-      <webElementGuid>230bd177-7e3a-4102-a3a6-daec3946377c</webElementGuid>
+      <value>id(&quot;modal-content-id-1-3396&quot;)/div[@class=&quot;delegation-2&quot;]/div[1]/lightning-button[1]/button[@class=&quot;slds-button slds-button_neutral&quot;]</value>
+      <webElementGuid>d37e397f-585f-40f2-b0e8-6998c7f4bfc8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[724]</value>
-      <webElementGuid>8520ca62-b2a9-450c-b594-4265b65bfd26</webElementGuid>
+      <value>//button[@name='Populate']</value>
+      <webElementGuid>ca8390d4-77fe-4f45-b76a-d10aa125306d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[4]/c-qr-h-o-cycle-level/div[3]/lightning-button[2]/button</value>
-      <webElementGuid>2791f537-095f-425f-978e-ee222eeea1c4</webElementGuid>
+      <value>//div[@id='modal-content-id-1-3396']/div[3]/div/lightning-button/button</value>
+      <webElementGuid>d9da93fd-0938-4c19-8f4e-769fde568b4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::button[1]</value>
-      <webElementGuid>b9cef4ed-3050-4663-8780-0eda8192c5eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cardiovascular'])[101]/following::button[1]</value>
+      <webElementGuid>0ed51aad-9945-4903-9a86-c540fb4a61fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for'])[6]/following::button[2]</value>
-      <webElementGuid>edff72b9-aab4-4d45-8a30-942bdf5c32be</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bu Specific HO User'])[1]/following::button[1]</value>
+      <webElementGuid>268670b5-8dff-43a1-82cc-ea9e92444cfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please rotate your device to landscape mode to use the application.'])[1]/preceding::button[1]</value>
-      <webElementGuid>4f7a8fd2-0230-41c8-a529-f500e2552c99</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::button[1]</value>
+      <webElementGuid>512802c6-4273-4241-8916-bc43bc293dc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No record selected'])[1]/preceding::button[1]</value>
-      <webElementGuid>7428ae43-1b7c-4fef-9eb7-328d46ee8300</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Territory Code'])[1]/preceding::button[1]</value>
+      <webElementGuid>ce4071a4-5e39-4542-a1d9-67bc4899501f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>90d3c0bb-57a8-4ad7-a02e-09bac8d67fdf</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Populate']/parent::*</value>
+      <webElementGuid>986619b9-3f67-4d3b-88af-57072cd533b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/lightning-button[2]/button</value>
-      <webElementGuid>57834cee-ee12-43cc-9f7a-8726feeb2c9c</webElementGuid>
+      <value>//div[3]/div/lightning-button/button</value>
+      <webElementGuid>12da4b95-a06c-462f-b4c1-c3d964dacce0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@title = 'Primary action' and @type = 'button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>1e833e2a-3284-41d0-8071-c9b0e297e6ef</webElementGuid>
+      <value>//button[@name = 'Populate' and @type = 'button' and (text() = 'Populate' or . = 'Populate')]</value>
+      <webElementGuid>655e7029-0d1f-42ad-aed1-71facebf70f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

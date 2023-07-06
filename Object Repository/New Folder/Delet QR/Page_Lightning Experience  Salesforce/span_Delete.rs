@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/div[3]/div[2]/lightning-layout-item/slot/div/table/tbody/tr/td[7]/div/lightning-button-menu/div/div/slot/lightning-menu-item[8]/a/span</value>
+         <value>//span[text()='Delete']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e0acd520-ea32-45ad-aafc-5fffdfd79dbf</webElementGuid>
+      <webElementGuid>4d7c6df3-7795-455f-8dab-d47067aecc08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-truncate</value>
-      <webElementGuid>016c0dc5-59c5-4a29-bcdd-2d32177c7ede</webElementGuid>
+      <webElementGuid>4568316d-c779-4e25-89e6-28ceb36cfe93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>dcf9e2f0-0b2b-46eb-9357-6666da4a86fa</webElementGuid>
+      <webElementGuid>51636738-8619-4618-9db3-c9528d9b2c55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr_-list-page-lwc[1]/div[@class=&quot;row&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/div[@class=&quot;slds-col slds-border_left&quot;]/div[@class=&quot;slds-m-left--medium slds-m-right--medium slds-m-top--small sldc-scrollable slds-is-relative&quot;]/lightning-layout-item[@class=&quot;slds-size_11-of-12&quot;]/slot[1]/div[@class=&quot;list-scroll&quot;]/table[@class=&quot;list table-example slds-is-relative slds-scrollable&quot;]/tbody[1]/tr[@class=&quot;slds-hint-parent dataRow&quot;]/td[7]/div[@class=&quot;slds-truncate slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/lightning-button-menu[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click slds-is-open&quot;]/div[@class=&quot;slds-dropdown slds-dropdown_left&quot;]/div[@class=&quot;slds-dropdown__list slds-dropdown_length-with-icon-10&quot;]/slot[1]/lightning-menu-item[@class=&quot;slds-dropdown__item&quot;]/a[1]/span[@class=&quot;slds-truncate&quot;]</value>
-      <webElementGuid>7b4b434e-7c0c-4de9-ba67-914ccbab02b8</webElementGuid>
+      <webElementGuid>c8d35604-b7aa-4b92-bd32-e4894242ad1b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/div[3]/div[2]/lightning-layout-item/slot/div/table/tbody/tr/td[7]/div/lightning-button-menu/div/div/slot/lightning-menu-item[8]/a/span</value>
-      <webElementGuid>c34212d3-d8ab-466e-8887-ca0764853a44</webElementGuid>
+      <webElementGuid>84fdac37-dd47-4788-a158-500c5730a124</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminate'])[1]/following::span[1]</value>
-      <webElementGuid>765c4073-46ac-4e9f-8bdc-7c7795ba26d2</webElementGuid>
+      <webElementGuid>1eddb0ca-36e8-482f-9735-b2638fa5e3a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/following::span[2]</value>
-      <webElementGuid>ca316f17-2cbe-4535-b94b-c89ff7a44bc7</webElementGuid>
+      <webElementGuid>86af3e51-e102-46e4-a850-f8925f3760b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test8767890987'])[1]/preceding::span[1]</value>
-      <webElementGuid>5ac2dfa2-ee00-4bcf-99f3-39041fa19f08</webElementGuid>
+      <webElementGuid>50e66d08-6867-46eb-9d86-0eca5c73033e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VAC'])[2]/preceding::span[1]</value>
-      <webElementGuid>a4a5c878-630d-47b0-b9fd-a27188a4bf72</webElementGuid>
+      <webElementGuid>7ea2528a-98cc-4729-8fda-125ac5ede539</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-menu-item[8]/a/span</value>
-      <webElementGuid>ab5e3fe1-8936-42fb-bf62-40b89283d487</webElementGuid>
+      <webElementGuid>41df43de-8d62-4e08-873b-9d9d93727edc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>38183af7-24ea-432a-9887-1a0cbc9808e8</webElementGuid>
+      <webElementGuid>66f4ece5-6c2d-4d0a-a4e8-4074fa1a37a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

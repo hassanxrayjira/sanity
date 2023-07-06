@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Sale
 
 WebUI.click(findTestObject('Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
 
-WebUI.click(findTestObject('Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/span_Copy'))
+WebUI.click(findTestObject('New Folder/Copy QR/Page_Lightning Experience  Salesforce/span_Copy'))
 
 WebUI.click(findTestObject('Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/input_Copy_slds-button slds-button_brand'))
 

@@ -36,4 +36,3 @@ WebUI.click(findTestObject('Object Repository/New Folder/Delet QR/Page_Lightning
 WebUI.click(findTestObject('Object Repository/New Folder/Delet QR/Page_Lightning Experience  Salesforce/input_Delete_slds-button slds-button_brand'))
 
 WebUI.delay(6)
-

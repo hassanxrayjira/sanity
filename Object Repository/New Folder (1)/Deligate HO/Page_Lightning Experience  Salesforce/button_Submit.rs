@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Next_1</name>
+   <name>button_Submit</name>
    <tag></tag>
-   <elementGuidId>6022233f-3731-4886-aa42-de29f70c9caf</elementGuidId>
+   <elementGuidId>5a035e1b-a3f5-43fc-aa72-147add84331c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[724]</value>
+         <value>//button[text()='Submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.slds-button.slds-button_brand</value>
+         <value>lightning-button.slds-m-left_x-small > button.slds-button.slds-button_brand</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>33d361af-9fa6-46b4-b582-643b4349202d</webElementGuid>
+      <webElementGuid>a111cb8a-6967-403f-a38e-3076accf9d67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-button slds-button_brand</value>
-      <webElementGuid>46204d35-f9e1-445d-8440-38553afb685b</webElementGuid>
+      <webElementGuid>72803561-b56d-409f-bcf8-bd079435bfdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4e3a06c4-45ab-49b2-b990-faef9b20a53e</webElementGuid>
+      <webElementGuid>4a02f079-8b0d-4b39-9437-d022546ca8aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
-      <value>Primary action</value>
-      <webElementGuid>d62c3d72-2bca-474f-abfc-9b6d8d9c8eb5</webElementGuid>
+      <value>Submit</value>
+      <webElementGuid>76e4ed78-3c92-498d-92de-2269d033d768</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,94 +54,94 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8384b37c-d726-4ca1-82d8-96c7ef738a19</webElementGuid>
+      <webElementGuid>3d2808af-2a2d-4106-8b26-cc2996e9bc6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Next</value>
-      <webElementGuid>b7f37746-134f-4888-83f1-acabef58fb53</webElementGuid>
+      <value>Submit</value>
+      <webElementGuid>8a224816-88a9-4493-81b4-cb893c7cf323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-2&quot;]/c-qr-h-o-cycle-level[1]/div[@class=&quot;padding-10 form-size footer-buttons&quot;]/lightning-button[@class=&quot;slds-m-left_x-small&quot;]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
-      <webElementGuid>230bd177-7e3a-4102-a3a6-daec3946377c</webElementGuid>
+      <value>id(&quot;slds-page-header-1518&quot;)/div[@class=&quot;slds-media&quot;]/div[@class=&quot;slds-media__body&quot;]/div[@class=&quot;slds-grid slds-grid_align-spread&quot;]/div[@class=&quot;slds-col slds-size_1-of-2&quot;]/div[@class=&quot;slds-col pageHeader_right&quot;]/lightning-button[@class=&quot;slds-m-left_x-small&quot;]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
+      <webElementGuid>d9bf2af3-687b-4917-8a9d-c8a890f29968</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[724]</value>
-      <webElementGuid>8520ca62-b2a9-450c-b594-4265b65bfd26</webElementGuid>
+      <value>(//button[@type='button'])[167]</value>
+      <webElementGuid>13b76a25-7d6e-4228-88ad-b9f75053d1d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[4]/c-qr-h-o-cycle-level/div[3]/lightning-button[2]/button</value>
-      <webElementGuid>2791f537-095f-425f-978e-ee222eeea1c4</webElementGuid>
+      <value>//div[@id='slds-page-header-1518']/div/div[2]/div/div[2]/div/lightning-button[2]/button</value>
+      <webElementGuid>836235a5-49a7-4e66-bccd-57ddd28f1077</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::button[1]</value>
-      <webElementGuid>b9cef4ed-3050-4663-8780-0eda8192c5eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exit'])[1]/following::button[1]</value>
+      <webElementGuid>10c9a52a-8e28-4932-ba45-0439d4f604f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for'])[6]/following::button[2]</value>
-      <webElementGuid>edff72b9-aab4-4d45-8a30-942bdf5c32be</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quota Refinement >'])[1]/following::button[2]</value>
+      <webElementGuid>c629e308-c1d9-4d3f-9081-7ccde61414c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please rotate your device to landscape mode to use the application.'])[1]/preceding::button[1]</value>
-      <webElementGuid>4f7a8fd2-0230-41c8-a529-f500e2552c99</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Stage:'])[1]/preceding::button[1]</value>
+      <webElementGuid>3118fa0f-2772-4b1a-9799-858d8f000858</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No record selected'])[1]/preceding::button[1]</value>
-      <webElementGuid>7428ae43-1b7c-4fef-9eb7-328d46ee8300</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::button[1]</value>
+      <webElementGuid>f089c796-2891-48f3-869b-9b1123dbade7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>90d3c0bb-57a8-4ad7-a02e-09bac8d67fdf</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>a832b2c9-2e94-4790-b6de-3f371fd45832</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/lightning-button[2]/button</value>
-      <webElementGuid>57834cee-ee12-43cc-9f7a-8726feeb2c9c</webElementGuid>
+      <value>//div[2]/div/lightning-button[2]/button</value>
+      <webElementGuid>3507d6b5-8e22-467a-a520-ad7780684f60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@title = 'Primary action' and @type = 'button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>1e833e2a-3284-41d0-8071-c9b0e297e6ef</webElementGuid>
+      <value>//button[@title = 'Submit' and @type = 'button' and (text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>675b899d-d490-4797-9cce-a3173102d207</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

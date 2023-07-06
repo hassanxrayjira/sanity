@@ -26,7 +26,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'2023-13-05 22:13:55'</initValue>
+      <initValue>'2023-03-06 12:03:33'</initValue>
       <name>FolderName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ankit Chauhan'</initValue>
+      <name>HOName</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
