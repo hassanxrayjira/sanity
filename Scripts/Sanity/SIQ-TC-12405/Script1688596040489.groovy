@@ -29,16 +29,16 @@ WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Li
 
 WebUI.delay(6)
 
-WebUI.click(findTestObject('Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
 
-WebUI.click(findTestObject('Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
 
-WebUI.click(findTestObject('New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_Delegate'))
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_Delegate'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/h1_Delegation'), 
     0)
 
-WebUI.click(findTestObject('New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_Business Unit_slds-radio_faux'))
+WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_Business Unit_slds-radio_faux'))
 
 WebUI.delay(6)
 
@@ -60,10 +60,5 @@ WebUI.delay(6)
 WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), 
     20)
 
-WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), FailureHandling.STOP_ON_FAILURE)
-
-//WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/a_Quota Refinement'))
-WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'))
-
-WebUI.click(findTestObject('Object Repository/New Folder/Delet QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon'))
+WebUI.delay(6)
 

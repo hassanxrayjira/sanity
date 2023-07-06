@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>92273e5c-5d22-4eaf-b61d-4d42d0141403</webElementGuid>
+      <webElementGuid>10663222-50bb-4bdd-998d-ead0e4df908d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>part</name>
       <type>Main</type>
       <value>indicator</value>
-      <webElementGuid>d7d02d7d-f6a3-4820-bbb0-c37cb79f7447</webElementGuid>
+      <webElementGuid>2d041c80-ae5a-4af0-acc4-3e3c53ff3b49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-checkbox_faux</value>
-      <webElementGuid>e6a2d36c-9639-491e-a167-84a4cf93cd68</webElementGuid>
+      <webElementGuid>17f997be-6d3c-4563-aa84-7e761741efb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;VAC-REGION-3396&quot;)/div[@class=&quot;slds-form-element__control slds-grow&quot;]/span[@class=&quot;slds-checkbox&quot;]/label[@class=&quot;slds-checkbox__label&quot;]/span[@class=&quot;slds-checkbox_faux&quot;]</value>
-      <webElementGuid>fc3c498b-924c-45aa-b243-e80df2241bb0</webElementGuid>
+      <webElementGuid>9471eaaf-770d-411f-b214-f7739a8e74d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//lightning-input[@id='VAC-REGION-3396']/div/span/label/span</value>
-      <webElementGuid>e3ad8d03-c819-4743-ba76-f1eaca62f6e4</webElementGuid>
+      <webElementGuid>6ce614f5-8c1f-4ce8-a06f-8fc70faccc06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span/label/span</value>
-      <webElementGuid>a9cda7d6-6390-4bca-9ab9-cdde68d0708b</webElementGuid>
+      <webElementGuid>63b0b9e1-5a15-4067-baa6-3ae943e2eb03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

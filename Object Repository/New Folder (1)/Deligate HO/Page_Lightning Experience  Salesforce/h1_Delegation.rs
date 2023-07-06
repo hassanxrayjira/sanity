@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>fbcf4460-65f1-4cdd-bbd9-5a8339c3e6f6</webElementGuid>
+      <webElementGuid>73d2cebe-a049-431f-b0c2-51e032844f7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-modal__title slds-hyphenate</value>
-      <webElementGuid>e749c4c7-e93c-40b7-8543-0e897c126e10</webElementGuid>
+      <webElementGuid>2d7a49d7-9fc0-4b99-87d3-7c0ce232aabf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>modal-heading-01-3396</value>
-      <webElementGuid>dac612b6-902a-4de5-abfe-546212511eab</webElementGuid>
+      <webElementGuid>02b9941a-d9e9-4f28-88b4-8c23aa157acd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delegation</value>
-      <webElementGuid>8c39bde1-1ce0-403b-b554-44e2b715fc3f</webElementGuid>
+      <webElementGuid>a2eff4b4-35b8-4298-b671-8ab50140d466</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modal-heading-01-3396&quot;)</value>
-      <webElementGuid>65be81ad-a740-4a31-bbcf-241074a03790</webElementGuid>
+      <webElementGuid>0893dcbe-46b8-45b8-88f8-cb394ee1c2ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h1[@id='modal-heading-01-3396']</value>
-      <webElementGuid>d80c999c-830e-414f-ae15-800b593f3a11</webElementGuid>
+      <webElementGuid>60c46752-7887-48ac-a7b3-fb06e621217b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[3]/siqic-qr_-list-page-lwc/div/div/div[3]/c-qr-delegate-lwc/div/section/div/div/h1</value>
-      <webElementGuid>cab43ddd-a859-457e-bbd2-963d456f2fc5</webElementGuid>
+      <webElementGuid>0f8b157f-6990-4f1c-967d-d5fe6f4f4d79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel and close'])[1]/following::h1[1]</value>
-      <webElementGuid>1d2fe769-4279-43cf-ada9-244d05220092</webElementGuid>
+      <webElementGuid>fac72414-4de9-4455-973d-6a0efc1eb22c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Action'])[560]/following::h1[1]</value>
-      <webElementGuid>f40ea372-d90c-4875-be8b-261bec85e2b0</webElementGuid>
+      <webElementGuid>9f2cf772-581e-4fd0-81d1-dc536147c713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User Type'])[1]/preceding::h1[1]</value>
-      <webElementGuid>d5038d56-4d9c-456d-9762-4d19ebbd4fcf</webElementGuid>
+      <webElementGuid>2d9d2b59-4689-4352-9cd9-22f099ed348a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HO'])[1]/preceding::h1[1]</value>
-      <webElementGuid>d0037352-c7de-463c-94cf-51657d64bee7</webElementGuid>
+      <webElementGuid>5b84d8aa-cc21-4ded-b261-469fb91e45c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Delegation']/parent::*</value>
-      <webElementGuid>8755c790-baf2-4f72-b114-6f5bb0adcbb9</webElementGuid>
+      <webElementGuid>282f16c6-8994-43b4-800b-b302232811cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>5d15b0d0-f741-4668-bdb2-c0f8f1ebfcb5</webElementGuid>
+      <webElementGuid>4d0543e2-84c0-4613-9f40-5abcc757e8a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[@id = 'modal-heading-01-3396' and (text() = 'Delegation' or . = 'Delegation')]</value>
-      <webElementGuid>78964540-0d4e-4d54-be09-04e7b26a0d50</webElementGuid>
+      <webElementGuid>f887659c-ddba-494e-ba4f-cd973071496c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

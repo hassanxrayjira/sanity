@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>58812cce-2d27-4856-adf7-70e14e8a1fca</webElementGuid>
+      <webElementGuid>c6075c97-73cc-4183-9a0e-fb40bbebd702</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-truncate</value>
-      <webElementGuid>3aec832f-2aba-4491-994c-39094579e950</webElementGuid>
+      <webElementGuid>ec0f60be-f3f5-4d2e-938d-f62b4b9ad72f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delegate</value>
-      <webElementGuid>69f2cc1c-3d97-43b9-8d54-f1daf8007fb6</webElementGuid>
+      <webElementGuid>fc46480b-5a25-4bc0-9f6d-0b5cdf811f79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr_-list-page-lwc[1]/div[@class=&quot;row&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/div[@class=&quot;slds-col slds-border_left&quot;]/div[@class=&quot;slds-m-left--medium slds-m-right--medium slds-m-top--small sldc-scrollable slds-is-relative&quot;]/lightning-layout-item[@class=&quot;slds-size_11-of-12&quot;]/slot[1]/div[@class=&quot;list-scroll&quot;]/table[@class=&quot;list table-example slds-is-relative slds-scrollable&quot;]/tbody[1]/tr[@class=&quot;slds-hint-parent dataRow&quot;]/td[6]/div[@class=&quot;slds-truncate slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/lightning-button-menu[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click slds-is-open&quot;]/div[@class=&quot;slds-dropdown slds-dropdown_left&quot;]/div[@class=&quot;slds-dropdown__list slds-dropdown_length-with-icon-10&quot;]/slot[1]/lightning-menu-item[@class=&quot;slds-dropdown__item&quot;]/a[1]/span[@class=&quot;slds-truncate&quot;]</value>
-      <webElementGuid>e229be47-0e3d-4fe4-bab2-57b5255948f0</webElementGuid>
+      <webElementGuid>4d773e8b-e54f-489c-ba93-8b367a1473be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[3]/siqic-qr_-list-page-lwc/div/div/div[3]/div[2]/lightning-layout-item/slot/div/table/tbody/tr/td[6]/div/lightning-button-menu/div/div/slot/lightning-menu-item[5]/a/span</value>
-      <webElementGuid>4c954633-49db-4789-856a-968d6dfc5ab8</webElementGuid>
+      <webElementGuid>b9c513ce-4a3d-42c5-b523-12cb80c0e206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delegated Cycle'])[1]/following::span[1]</value>
-      <webElementGuid>7520c1f7-c1e1-439c-b686-6d442ec2be93</webElementGuid>
+      <webElementGuid>59952f82-7279-4c2d-96ee-a904bcab1666</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Refine/Review'])[1]/following::span[2]</value>
-      <webElementGuid>e8990e78-ae64-4674-b554-8c68697310fe</webElementGuid>
+      <webElementGuid>3b07d1cd-8d2e-4e51-b333-2126185c569f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::span[1]</value>
-      <webElementGuid>ddd9127c-9075-4094-a893-30febcf8a914</webElementGuid>
+      <webElementGuid>7538d8ab-8501-4344-ad8d-19bddecba9f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminate'])[1]/preceding::span[2]</value>
-      <webElementGuid>31bd7b78-820b-4dc6-8836-3388853e14da</webElementGuid>
+      <webElementGuid>9fa3cd20-a734-4efd-89a4-f073f885f94f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Delegate']/parent::*</value>
-      <webElementGuid>43d902be-50de-496a-8095-e03dc1ebf05a</webElementGuid>
+      <webElementGuid>8babf6aa-df03-46e0-b177-6a7df67be988</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-menu-item[5]/a/span</value>
-      <webElementGuid>e80c2be1-e5d0-45ff-80d5-49f146b2c859</webElementGuid>
+      <webElementGuid>26389b85-25f3-4268-9d43-944a405b4c1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Delegate' or . = 'Delegate')]</value>
-      <webElementGuid>5bf6fc4a-2152-48a3-b859-64514ecd7348</webElementGuid>
+      <webElementGuid>bce622f4-8143-4aec-aaf0-0ea67b27a828</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
