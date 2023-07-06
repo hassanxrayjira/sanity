@@ -23,7 +23,7 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder (1)/Del
     0)
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/label_Product'), 
-    0)
+    30)
 
 WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_Submit'))
 
@@ -38,7 +38,7 @@ WebUI.click(findTestObject('New Folder (1)/Deligate HO/Page_Lightning Experience
 WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/h1_Delegation'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_Business Unit_slds-radio_faux'))
+WebUI.click(findTestObject('New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/span_Business Unit_slds-radio_faux'))
 
 WebUI.delay(6)
 
@@ -58,7 +58,7 @@ WebUI.click(findTestObject('Object Repository/New Folder (1)/Deligate HO/Page_Li
 WebUI.delay(6)
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), 
-    10)
+    20)
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_SalesIQ Home  Salesforce/span_Quota Refinement'), FailureHandling.STOP_ON_FAILURE)
 

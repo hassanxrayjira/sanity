@@ -29,6 +29,36 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/label_Product_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon",
+      "brokenLocator": "//td[.//div[text()\u003d\u00272023-03-06 12:03:33\u0027]]/following-sibling::td//lightning-button-menu",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027!QATEST121\u0027])[2]/following::lightning-primitive-icon[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/New Folder/Copy QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_Submit",
+      "brokenLocator": "//button[text()\u003d\u0027Submit\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[167]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/New Folder (1)/Deligate HO/Page_Lightning Experience  Salesforce/button_Submit_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Delet QR/Page_Lightning Experience  Salesforce/lightning-primitive-icon",
+      "brokenLocator": "//td[.//div[text()\u003d\u00272023-03-06 12:03:33\u0027]]/following-sibling::td//lightning-button-menu",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027!QATEST121\u0027])[2]/following::lightning-primitive-icon[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
     }
   ]
 }

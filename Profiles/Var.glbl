@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'!QATEST121'</initValue>
+      <initValue>'!1Q3'</initValue>
       <name>QL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -33,5 +33,10 @@
       <description></description>
       <initValue>'Ankit Chauhan'</initValue>
       <name>HOName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Nameof</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
