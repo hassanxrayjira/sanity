@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'!1Q3'</initValue>
+      <initValue>'!'</initValue>
       <name>QL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -38,5 +38,15 @@
       <description></description>
       <initValue>''</initValue>
       <name>Nameof</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Andrew Fleischman'</initValue>
+      <name>RosterName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'!12345'</initValue>
+      <name>downloadfolder</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

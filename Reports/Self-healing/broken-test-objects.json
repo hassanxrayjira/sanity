@@ -59,6 +59,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Lightning Experience  Salesforce/label_Product",
+      "brokenLocator": "//div[@id\u003d\u0027navbar-inputs-1796\u0027]/lightning-combobox/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/lightning-combobox/label",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Lightning Experience  Salesforce/label_Product_position.png"
     }
   ]
 }

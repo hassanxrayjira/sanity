@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-primitive-icon</name>
+   <tag></tag>
+   <elementGuidId>33b5b1b9-a07d-48f0-b06e-72746feceef9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[3]/siqic-qr_-list-page-lwc/div/div/div[3]/div[2]/lightning-layout-item/slot/div/table/tbody/tr/td[6]/div/lightning-button-menu/button/lightning-primitive-icon</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.windowViewMode-normal.oneContent.active.lafPageHost > siqic-qr_-list-page-lwc > div.row > div.slds-grid.slds-p-around--medium > div.slds-col.slds-border_left > div.slds-m-left--medium.slds-m-right--medium.slds-m-top--small.sldc-scrollable.slds-is-relative > lightning-layout-item.slds-size_11-of-12 > slot > div.list-scroll > table.list.table-example.slds-is-relative.slds-scrollable > tbody > tr.slds-hint-parent.dataRow > td:nth-of-type(6) > div.slds-truncate.slds-dropdown-trigger.slds-dropdown-trigger_click > lightning-button-menu.slds-dropdown-trigger.slds-dropdown-trigger_click > button.slds-button.slds-button_icon-border > lightning-primitive-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-primitive-icon</value>
+      <webElementGuid>ea0fffdb-6ae8-4997-9b0a-6f8df7e71682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr_-list-page-lwc[1]/div[@class=&quot;row&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/div[@class=&quot;slds-col slds-border_left&quot;]/div[@class=&quot;slds-m-left--medium slds-m-right--medium slds-m-top--small sldc-scrollable slds-is-relative&quot;]/lightning-layout-item[@class=&quot;slds-size_11-of-12&quot;]/slot[1]/div[@class=&quot;list-scroll&quot;]/table[@class=&quot;list table-example slds-is-relative slds-scrollable&quot;]/tbody[1]/tr[@class=&quot;slds-hint-parent dataRow&quot;]/td[6]/div[@class=&quot;slds-truncate slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/lightning-button-menu[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/button[@class=&quot;slds-button slds-button_icon-border&quot;]/lightning-primitive-icon[1]</value>
+      <webElementGuid>979e41f7-21f8-466c-a39a-8a7d277f4ffa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[3]/siqic-qr_-list-page-lwc/div/div/div[3]/div[2]/lightning-layout-item/slot/div/table/tbody/tr/td[6]/div/lightning-button-menu/button/lightning-primitive-icon</value>
+      <webElementGuid>9bac0d69-2ba7-43b3-bdf1-3d673b1aa226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refinement - In Progress'])[3]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>77642934-3569-4beb-8dac-cf7a2ef0b938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRESMBA'])[3]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>f2602f68-d028-419d-9e9f-9120208fe2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Action'])[3]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>ab7fc8e5-ad63-4fab-b34d-b770d658c21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VAC'])[4]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>5909507c-f400-4a99-b295-99244c257022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/siqic-qr_-list-page-lwc/div/div/div[3]/div[2]/lightning-layout-item/slot/div/table/tbody/tr/td[6]/div/lightning-button-menu/button/lightning-primitive-icon</value>
+      <webElementGuid>2a57144f-2065-445a-8b78-b25154fab9b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

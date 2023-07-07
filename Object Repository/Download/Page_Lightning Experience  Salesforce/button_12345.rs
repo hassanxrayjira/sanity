@@ -3,11 +3,11 @@
    <description></description>
    <name>button_12345</name>
    <tag></tag>
-   <elementGuidId>9ce0a841-fc1f-40ac-bebd-4084299b2ca7</elementGuidId>
+   <elementGuidId>d3a9c168-749d-41e9-8066-9d25ec9cb9a7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button [text()= '${GlobalVariable.QL}']</value>
+         <value>//button [text()= '${GlobalVariable.downloadfolder}']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>306a766d-6006-4fe8-a335-d961947eda13</webElementGuid>
+      <webElementGuid>be3c8040-b923-4f4b-86e7-c146f6351dd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-button</value>
-      <webElementGuid>c29212f9-2f14-4ed9-ad64-83495057f417</webElementGuid>
+      <webElementGuid>114317fb-22f7-482d-ab01-0585fc6313d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>37628240-443a-49a4-9045-601643de960d</webElementGuid>
+      <webElementGuid>a2ae0561-bb60-4041-8b72-23f37abff8f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>a3X5e000000EfFuEAK</value>
-      <webElementGuid>9c7d8934-0202-43b0-a060-5756792dc884</webElementGuid>
+      <webElementGuid>d0abce34-ff34-48a5-b37b-28056b1f3d88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>title</name>
       <type>Main</type>
       <value>!12345</value>
-      <webElementGuid>f70743e8-45ad-4023-a08f-23d4b0a9cd34</webElementGuid>
+      <webElementGuid>5af28302-5738-4e7b-9543-07fc53bf9a5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4433eabd-07a9-4e9c-bd31-18889fe837d0</webElementGuid>
+      <webElementGuid>525cb879-3523-4eed-b254-9dec6261ee3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>value</name>
       <type>Main</type>
       <value>a3X5e000000EfFuEAK</value>
-      <webElementGuid>b24a9abf-62b3-47cc-9cf5-621607d0b888</webElementGuid>
+      <webElementGuid>e3080cfb-e744-4148-9ca3-8d7314549cf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>!12345</value>
-      <webElementGuid>6facf60f-bfa1-45a9-aad4-7e8ada0993af</webElementGuid>
+      <webElementGuid>35be9e9e-a2dc-4537-8af0-5159fbfeabbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr_-list-page-lwc[1]/div[@class=&quot;row&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/div[1]/div[@class=&quot;vertical-scroll&quot;]/div[1]/div[@class=&quot;slds-tree_container&quot;]/ul[@class=&quot;slds-tree&quot;]/li[3]/div[@class=&quot;slds-tree__item&quot;]/lightning-button[@class=&quot;slds-tree__item-label slds-truncate&quot;]/button[@class=&quot;slds-button&quot;]</value>
-      <webElementGuid>fdca7e1a-9a95-4440-aec6-c94e90414761</webElementGuid>
+      <webElementGuid>45b64de1-0031-44eb-a1f2-1f21ace7d15d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='a3X5e000000EfFuEAK']</value>
-      <webElementGuid>46dd17f9-75f1-4046-925c-f5c0b6252f2b</webElementGuid>
+      <webElementGuid>93d1ea1d-a9d9-465f-9bcd-8f91ea940685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/div/div/div/div/ul/li[3]/div/lightning-button/button</value>
-      <webElementGuid>45e9d81b-ce5c-4a92-a9f5-e15bf9ac7ffc</webElementGuid>
+      <webElementGuid>e31beb1b-deeb-4f97-ab7d-8bbcbe0d52d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='!1234'])[1]/following::button[1]</value>
-      <webElementGuid>d0372120-63b3-431e-b245-f14278bbc556</webElementGuid>
+      <webElementGuid>213d4631-ef31-42f9-befa-f4c3b03e193e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='!'])[1]/following::button[2]</value>
-      <webElementGuid>65382643-02da-4f26-a638-66c5fe2523e3</webElementGuid>
+      <webElementGuid>1163f7e1-0810-4f63-8044-0d729c1cfaf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='!123455511'])[1]/preceding::button[1]</value>
-      <webElementGuid>d99e1cd6-8a5f-4911-9004-70c4cc17d7c2</webElementGuid>
+      <webElementGuid>1b0e064d-6062-4600-abd8-1c446fb36ddf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='!12QA'])[1]/preceding::button[2]</value>
-      <webElementGuid>e244009f-95ad-4c00-b3cf-798c186f0976</webElementGuid>
+      <webElementGuid>ef7bb964-d1dc-45e3-9f16-ac789ca7e0dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='!12345']/parent::*</value>
-      <webElementGuid>85aa23b1-d223-4817-bd5f-45b0c32d60e8</webElementGuid>
+      <webElementGuid>18f1a359-5419-4e7c-9a38-21fe529b2e07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/lightning-button/button</value>
-      <webElementGuid>930f13b2-8a4c-4b17-a9b8-a3f904d72e32</webElementGuid>
+      <webElementGuid>3e790b6e-fe98-4afc-a0b3-e8189a5987d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = 'a3X5e000000EfFuEAK' and @title = '!12345' and @type = 'button' and (text() = '!12345' or . = '!12345')]</value>
-      <webElementGuid>0d467902-2781-4e57-abb5-53ae677c85cf</webElementGuid>
+      <webElementGuid>161a9ba6-e578-4d69-b4e9-703afebec38f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

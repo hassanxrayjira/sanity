@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>lightning-primitive-icon</name>
+   <name>lightning-primitive-icon (1)</name>
    <tag></tag>
-   <elementGuidId>9c330afa-4340-4dcf-a3c1-e2b41ad31533</elementGuidId>
+   <elementGuidId>9e94326f-0fad-46a9-8a01-86b315cb6efd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>lightning-primitive-icon</value>
-      <webElementGuid>06b6261b-5100-4bb6-accd-42adb8f3338b</webElementGuid>
+      <webElementGuid>a6d4c75c-6aea-44d5-b188-3fe82415f8ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr_-list-page-lwc[1]/div[@class=&quot;row&quot;]/div[@class=&quot;slds-grid slds-p-around--medium&quot;]/div[@class=&quot;slds-col slds-border_left&quot;]/div[@class=&quot;slds-m-left--medium slds-m-right--medium slds-m-top--small sldc-scrollable slds-is-relative&quot;]/lightning-layout-item[@class=&quot;slds-size_11-of-12&quot;]/slot[1]/div[@class=&quot;list-scroll&quot;]/table[@class=&quot;list table-example slds-is-relative slds-scrollable&quot;]/tbody[1]/tr[@class=&quot;slds-hint-parent dataRow&quot;]/td[7]/div[@class=&quot;slds-truncate slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/lightning-button-menu[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/button[@class=&quot;slds-button slds-button_icon-border&quot;]/lightning-primitive-icon[1]</value>
-      <webElementGuid>f5f48853-9d58-4f83-a83f-1e9363b0c627</webElementGuid>
+      <webElementGuid>ef93d904-638a-40ac-83b6-4c41bb4b2eeb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div/siqic-qr_-list-page-lwc/div/div/div[3]/div[2]/lightning-layout-item/slot/div/table/tbody/tr/td[7]/div/lightning-button-menu/button/lightning-primitive-icon</value>
-      <webElementGuid>92274751-27bd-4c98-b2e3-fbb07a0169bd</webElementGuid>
+      <webElementGuid>2da501c6-ad9e-40b5-8cf9-88c0029b9342</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='!QATEST121'])[2]/following::lightning-primitive-icon[1]</value>
-      <webElementGuid>8d6c5ea5-e593-43c4-9b7e-8438cc26074b</webElementGuid>
+      <webElementGuid>954392f2-eca7-41a4-add6-72c5bc1c2e7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved'])[1]/following::lightning-primitive-icon[1]</value>
-      <webElementGuid>51d7d537-9539-4437-acd0-051ce3d5a712</webElementGuid>
+      <webElementGuid>b7270a89-3bea-454c-b084-0850546da653</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Action'])[1]/preceding::lightning-primitive-icon[1]</value>
-      <webElementGuid>841ac096-1bd9-47e8-8b50-0f9959d59b9e</webElementGuid>
+      <webElementGuid>f36a6fea-087c-420e-b7b8-9280b5b7f61a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::lightning-primitive-icon[1]</value>
-      <webElementGuid>49468f8a-5b28-4b68-9104-2a55141c3337</webElementGuid>
+      <webElementGuid>e0923531-89c3-452d-b321-5e175f86d7a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-button-menu/button/lightning-primitive-icon</value>
-      <webElementGuid>2c610fc6-64ff-4511-aa5c-aa16a7e8c31e</webElementGuid>
+      <webElementGuid>70a5c5b4-1b96-4d38-9b6e-2c56dd322772</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
